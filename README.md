@@ -51,7 +51,7 @@ Our objective by the end of this roadmap is to have a clear understanding of the
 
 <hr>
 
-## 2. Data Structures and Algorithms Path
+## 2. Data Structures and Algorithms
 
 #### Project Stack
 
@@ -91,7 +91,7 @@ DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/intro
 
 <hr>
 
-## 4. Network Path
+## 4. Network
 
 #### Project Stack
 
