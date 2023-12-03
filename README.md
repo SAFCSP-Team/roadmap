@@ -8,11 +8,19 @@ These paths are
 - Data Structures and algorithms 
 - Operating System
 - Network
-
+- Final Projects
 
 ## Objective
-Our objective by the end of this roadmap is to have a clear understanding of the four paths and how to build robust applications that use the concepts we covered.
+Our objective by the end of this roadmap is to have a clear understanding of the four paths plus the final projects and how to build robust applications that use the concepts we covered.
 
+
+## Submitting Process
+
+* Fork the project repository.
+* Make your changes to the project.
+* Submit a pull/merge request.
+
+> All questions and concerns regarding the projects are using Github issues.
 
 <hr>
 
@@ -37,8 +45,8 @@ Our objective by the end of this roadmap is to have a clear understanding of the
 
 | Resource ID  | Resource Title                                                                                                                                                                                                                                                                                                                     | Type   | Issue ID                                                       | Deadline  |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------- | --------- |
-| HLLResource01 | [Learn Object Oriented Programming in Java](https://www.udemy.com/course/learn-object-oriented-programming-in-java-j/) | course| [#2](https://github.com/nourabyte/high-level-language-path/issues/2) | 28 Dec |
-| HLLResource02  |    [Java learn](https://dev.java/learn/)    | documentation |[#3](https://github.com/SAFCSP-Team/high-level-language-path/issues/3)  |1 Jan       
+| HLLResource01 | [Learn Object Oriented Programming in Java](https://www.udemy.com/course/learn-object-oriented-programming-in-java-j/) | course|  | 28 Dec |
+| HLLResource02  |    [Java learn](https://dev.java/learn/)    | documentation |  |1 Jan       
 
 <hr>
 
@@ -56,7 +64,7 @@ DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/intro
 
 | Resource ID  | Resource Title            | Type   | Issue ID  | Deadline  |
 | ------------ | ------------------------- | ------ | ------- | --------- |
-| SDAResource01 | [Data Structures using Java](https://www.youtube.com/playlist?list=PLsyeobzWxl7oRKwDi7wjrANsbhTX0IK0J) | playlist | https://github.com/SAFCSP-Team/data-structures-and-algorithms-path/issues/2 | 9 Dec |
+| SDAResource01 | [Data Structures using Java](https://www.youtube.com/playlist?list=PLsyeobzWxl7oRKwDi7wjrANsbhTX0IK0J) | playlist |  | 9 Dec |
 
 <hr>
 
@@ -75,9 +83,9 @@ DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/intro
 
 | Resource ID  | Resource Title  | Type   | Issue ID| Deadline  |
 | ------------ | --------------------------- | ------ | ------------ | --------- |
-| OSResource01 | [Documentation of Introduction to Operating System](https://batch.libretexts.org/print/url=https://eng.libretexts.org/Courses/Delta_College/Introduction_to_Operating_Systems/02%3A_The_Basics_-_An_Overview/2.01%3A_Introduction_to_Operating_Systems.pdf) | Course | [#1](https://github.com/SAFCSP-Team/operating-system-path/issues/1) | 28 DEC 2023 |
-| OSResource02 | [Introduction to Operating System](https://github.com/SAFCSP-Team/operating-system-path/issues/2) | Course | [#2](https://www.youtube.com/watch?v=dOiA2nNJpc0&list=LL&index=2) | 28 DEC 2023 |
-|OSResource03| [Introduction to Operating System by Udacity](https://www.udacity.com/course/introduction-to-operating-systems--ud923)| Course| https://github.com/SAFCSP-Team/operating-system-path/issues/4 | 28 DEC 2023
+| OSResource01 | [Documentation of Introduction to Operating System](https://batch.libretexts.org/print/url=https://eng.libretexts.org/Courses/Delta_College/Introduction_to_Operating_Systems/02%3A_The_Basics_-_An_Overview/2.01%3A_Introduction_to_Operating_Systems.pdf) | Course | | 28 DEC 2023 |
+| OSResource02 | [Introduction to Operating System](https://github.com/SAFCSP-Team/operating-system-path/issues/2) | Course |  | 28 DEC 2023 |
+|OSResource03| [Introduction to Operating System by Udacity](https://www.udacity.com/course/introduction-to-operating-systems--ud923)| Course|  | 28 DEC 2023
 
 
 <hr>
@@ -96,7 +104,7 @@ DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/intro
 
 | Resource ID  | Resource Title                                                                                                                                                                                                                                                                                                                     | Type   | Issue ID                                                       | Deadline  |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------- | --------- |
-| NetResource01 | [Network Concepts & Protocols](https://app.pluralsight.com/library/courses/network-concepts-protocols-cert/table-of-contents), Chapter 1 to Chapter 6| Course | [#1](https://github.com/SAFCSP-Team/Network-Path/issues/1) | 28 Dec 2023 |
-| NetResource02 |   [Java The Complete Reference 12 edition](https://www.google.com.sa/books/edition/Java_The_Complete_Reference_Twelfth_Edit/iXlIEAAAQBAJ?hl=en&gbpv=0&bsq=Java%20The%20Complete%20Reference%2012th%20edition) , Chapter 24: Networking |   Book     |  [#2](https://github.com/SAFCSP-Team/Network-Path/issues/2) |     28 Dec 2023      |
+| NetResource01 | [Network Concepts & Protocols](https://app.pluralsight.com/library/courses/network-concepts-protocols-cert/table-of-contents), Chapter 1 to Chapter 6| Course | | 28 Dec 2023 |
+| NetResource02 |   [Java The Complete Reference 12 edition](https://www.google.com.sa/books/edition/Java_The_Complete_Reference_Twelfth_Edit/iXlIEAAAQBAJ?hl=en&gbpv=0&bsq=Java%20The%20Complete%20Reference%2012th%20edition) , Chapter 24: Networking |   Book     |   |     28 Dec 2023      |
 
 
