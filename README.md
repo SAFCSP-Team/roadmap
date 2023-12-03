@@ -1,10 +1,17 @@
 # Roadmap
 
 ## Introduction 
-Introduction for all paths 
+In this roadmap, you will begin your journey to explore four paths that will greatly contribute to improving your programming skills. By a set of resources and projects to give you a new learning experience! 
+These paths are
+- High-Level language
+- Data Structures and algorithms 
+- Operating System
+- Network
 
-## Objectives
-Objectives for all paths 
+
+## Objective
+Our objective by the end of this roadmap is to have a clear understanding of the four paths and how to build robust applications that use the concepts we covered.
+
 
 <hr>
 
