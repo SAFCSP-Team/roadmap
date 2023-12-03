@@ -6,6 +6,7 @@ Introduction for all paths
 ## Objectives
 Objectives for all paths 
 
+<hr>
 
 ## 1. High Level Programming Language 
 #### Project Stack
