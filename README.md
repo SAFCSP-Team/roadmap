@@ -57,7 +57,7 @@ Our objective by the end of this roadmap is to have a clear understanding of the
 
 | Project ID  | Project Title                                                                         | Deadline | devAlq | JSQdev    |
 | ----------- | ------------------------------------------------------------------------------------- | -------- |  -------  | ------ | 
-DSAProject01 | [Introduction to Data Structures](https://github.com/SAFCSP-Team/introduction-to-data-structures) |	2 Dec 2023 |:x:
+DSAProject01 | [Introduction to Data Structures](https://github.com/SAFCSP-Team/introduction-to-data-structures) |	2 Dec 2023 |:x: | :x: | 
 DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/introduction-to-algorithms) |	3 Dec 2023
 
 
