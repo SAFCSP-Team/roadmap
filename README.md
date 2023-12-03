@@ -31,7 +31,7 @@ Objectives for all paths
 | HLLResource01 | [Learn Object Oriented Programming in Java](https://www.udemy.com/course/learn-object-oriented-programming-in-java-j/) | course| [#2](https://github.com/nourabyte/high-level-language-path/issues/2) | 28 Dec |
 | HLLResource02  |    [Java learn](https://dev.java/learn/)    | documentation |[#3](https://github.com/SAFCSP-Team/high-level-language-path/issues/3)  |1 Jan       
 
-
+<hr>
 
 ## 2. Data Structures and Algorithms Path
 
@@ -49,6 +49,7 @@ DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/intro
 | ------------ | ------------------------- | ------ | ------- | --------- |
 | SDAResource01 | [Data Structures using Java](https://www.youtube.com/playlist?list=PLsyeobzWxl7oRKwDi7wjrANsbhTX0IK0J) | playlist | https://github.com/SAFCSP-Team/data-structures-and-algorithms-path/issues/2 | 9 Dec |
 
+<hr>
 
 ## 3. Operating System 
 
@@ -70,7 +71,7 @@ DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/intro
 |OSResource03| [Introduction to Operating System by Udacity](https://www.udacity.com/course/introduction-to-operating-systems--ud923)| Course| https://github.com/SAFCSP-Team/operating-system-path/issues/4 | 28 DEC 2023
 
 
-
+<hr>
 
 ## 4. Network Path
 
