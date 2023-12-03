@@ -29,9 +29,9 @@ Our objective by the end of this roadmap is to have a clear understanding of the
 ## 1. High-Level Programming Language 
 #### Project Stack
 
-| Project ID  | Project Title                                                                         | Deadline | @user1 | @user2    |
+| Project ID  | Project Title                                                                         | Deadline | devAlq | JSQdev    |
 | ----------- | ------------------------------------------------------------------------------------- | -------- |  -------  | ------ | 
-|HLLProject01 |[Package Concept](https://github.com/nourabyte/Package-Project/tree/main)             |3 Dec      |    :x:       |    :x:    |
+|HLLProject01 |[Package Concept](https://github.com/nourabyte/Package-Project/tree/main)             |3 Dec      |           |        |
 |HLLProject02 |[Exception Handling Concept](https://github.com/nourabyte/Exception-Handling)  |4 Dec         |        |                | 
 |HLLProject03|[Exception Handling Multi Catch](https://github.com/SAFCSP-Team/exception-handling-multi-catch)|
 |HLLProject04|[Try with Resource](https://github.com/SAFCSP-Team/try-with-resource)|
@@ -56,7 +56,7 @@ Our objective by the end of this roadmap is to have a clear understanding of the
 
 #### Project Stack
 
-| Project ID  | Project Title                                                                         | Deadline | @user1 | @user2    |
+| Project ID  | Project Title                                                                         | Deadline | devAlq | JSQdev    |
 | ----------- | ------------------------------------------------------------------------------------- | -------- |  -------  | ------ | 
 DSAProject01 | [Introduction to Data Structures](https://github.com/SAFCSP-Team/introduction-to-data-structures) |	2 Dec |:x:
 DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/introduction-to-algorithms) |	3 Dec
@@ -74,7 +74,7 @@ DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/intro
 
 #### Project Stack
 
-| Project ID  | Project Title                                                                         | Deadline | @user1 | @user2    |
+| Project ID  | Project Title                                                                         | Deadline | devAlq |   JSQdev  |
 | ----------- | ------------------------------------------------------------------------------------- | -------- |  -------  | ------ | 
 | OSProject01 | [Get Operating System Information](https://github.com/SAFCSP-Team/OS-Info) | 10 DEC 2023 |
 | OSProject02 | [Create Text File and Directory](https://github.com/SAFCSP-Team/get-file-info)             | 11 DEC 2023|
@@ -96,7 +96,7 @@ DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/intro
 
 #### Project Stack
 
-| Project ID  | Project Title                                                                         | Deadline | @user1 | @user2    |
+| Project ID  | Project Title                                                                         | Deadline |devAlq| JSQdev    |
 | ----------- | ------------------------------------------------------------------------------------- | -------- |  -------  | ------ | 
 | NetProject01 |  [IP Address Resolver](https://github.com/SAFCSP-Team/IPAddressResolver) |  17 Dec 2023   | 
 | NetProject02| [URL Investigator](https://github.com/SAFCSP-Team/URL-Investigator) | 18 Dec 2023 |
