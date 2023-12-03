@@ -1,6 +1,8 @@
 # Roadmap
 
+> #### This Repository will be updated frequently.
 ## Introduction 
+
 In this roadmap, you will begin your journey to explore four paths that will greatly contribute to improving your programming skills. By a set of resources and projects to give you a new learning experience! 
 
 These paths are
