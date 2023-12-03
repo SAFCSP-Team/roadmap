@@ -31,7 +31,7 @@ Our objective by the end of this roadmap is to have a clear understanding of the
 
 | Project ID  | Project Title                                                                         | Deadline | @user1 | @user2    |
 | ----------- | ------------------------------------------------------------------------------------- | -------- |  -------  | ------ | 
-|HLLProject01 |[Package Concept](https://github.com/nourabyte/Package-Project/tree/main)             |3 Dec      |           |        |
+|HLLProject01 |[Package Concept](https://github.com/nourabyte/Package-Project/tree/main)             |3 Dec      |    :x:       |    :x:    |
 |HLLProject02 |[Exception Handling Concept](https://github.com/nourabyte/Exception-Handling)  |4 Dec         |        |                | 
 |HLLProject03|[Exception Handling Multi Catch](https://github.com/SAFCSP-Team/exception-handling-multi-catch)|
 |HLLProject04|[Try with Resource](https://github.com/SAFCSP-Team/try-with-resource)|
@@ -58,7 +58,7 @@ Our objective by the end of this roadmap is to have a clear understanding of the
 
 | Project ID  | Project Title                                                                         | Deadline | @user1 | @user2    |
 | ----------- | ------------------------------------------------------------------------------------- | -------- |  -------  | ------ | 
-DSAProject01 | [Introduction to Data Structures](https://github.com/SAFCSP-Team/introduction-to-data-structures) |	2 Dec
+DSAProject01 | [Introduction to Data Structures](https://github.com/SAFCSP-Team/introduction-to-data-structures) |	2 Dec |:x:
 DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/introduction-to-algorithms) |	3 Dec
 
 
