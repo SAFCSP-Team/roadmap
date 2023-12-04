@@ -24,6 +24,16 @@ Our objective by the end of this roadmap is to have a clear understanding of the
 
 > All questions and concerns regarding the projects are using Github issues.
 
+## Review
+When a project is due, the project status will be updated as the following.
+|     Status       |      Meaning      |
+|:------------:|------------|
+| 🟢 | Submitted|
+| 🔴 | Not submitted|
+| 🟠 | Late submission |
+| 🟤 | Submitted, but not implemented correctly |
+| ⚫️ | Submission issue |
+
 <hr>
 
 ## 1. High-Level Programming Language 
