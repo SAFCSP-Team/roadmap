@@ -107,8 +107,16 @@ DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/intro
 
 | Project ID  | Project Title                                                                         | Deadline |devAlq| JSQdev    |
 | ----------- | ------------------------------------------------------------------------------------- | -------- |  -------  | ------ | 
-| NetProject01 |  [IP Address Resolver](https://github.com/SAFCSP-Team/IPAddressResolver) |  17 Dec 2023   | 
-| NetProject02| [URL Investigator](https://github.com/SAFCSP-Team/URL-Investigator) | 18 Dec 2023 |
+| NetProject01| [IP Address Resolver](https://github.com/SAFCSP-Team/IPAddressResolver) |    | | | |
+| NetProject02| [Multiple IP Addresses Retriever]() |  |  | | |
+| NetProject03| [URL Investigator](https://github.com/SAFCSP-Team/URL-Investigator) | |  | | | 
+| NetProject04| [HTTP Connection]()  | |  | | |
+| NetProject05| [HTTP Request and Response investigator]() | |  | | |
+| NetProject06| [HTTP Request and Response investigator, write into a file]() | |  | | |
+| NetProject07| [Socket Introduction]() | |  | | |
+| NetProject08| [Socket Communication, Byte Stream]() | |  | | |
+| NetProject09| [Socket Communication, Character Stream]() | |  | | |
+| NetProject10| [Sockets, Continuous Connection]() | |  | | |
 
 
 #### Resource Stack
