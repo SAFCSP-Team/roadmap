@@ -15,6 +15,14 @@ These paths are
 ## Objective
 Our objective by the end of this roadmap is to have a clear understanding of the four paths plus the final projects and how to build robust applications that use the concepts we covered.
 
+## Projects Structure and Count
+To have a clear understanding of each path, we structured the projects in the following order and count. 
+| Path | Projects Count | Exam Project |
+|:------|:------------:|:----------:|
+| High-Level Language| 12 | 1 |
+| Data Structure & Algorithms | 25 | 1 |
+| Operating System| 15 | 1 |
+| Network | 10 | 1 |
 
 ## Submitting Process
 
@@ -24,7 +32,7 @@ Our objective by the end of this roadmap is to have a clear understanding of the
 
 > All questions and concerns regarding the projects are using Github issues.
 
-## Review
+## Review Status
 When a project is due, the project status will be updated as the following.
 
 |     Status       |      Meaning      |
@@ -42,7 +50,7 @@ When a project is due, the project status will be updated as the following.
 
 | Project ID  | Project Title                                                                         | Deadline | devAlq | JSQdev    |
 | ----------- | ------------------------------------------------------------------------------------- | -------- |  -------  | ------ | 
-|HLLProject01 |[Package Concept](https://github.com/nourabyte/Package-Project/tree/main)             |3 Dec 2023     |  ❌   |   ❌   |
+|HLLProject01 |[Package Concept](https://github.com/nourabyte/Package-Project/tree/main)             |3 Dec 2023     | 🔴  |   🔴   |
 |HLLProject02 |[Exception Handling Concept](https://github.com/nourabyte/Exception-Handling)  |4 Dec 2023         |        |                | 
 |HLLProject03|[Exception Handling Multi Catch](https://github.com/SAFCSP-Team/exception-handling-multi-catch)|6 Dec
 |HLLProject04|[Try with Resource](https://github.com/SAFCSP-Team/try-with-resource)|9 Dec
