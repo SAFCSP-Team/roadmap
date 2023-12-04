@@ -95,9 +95,9 @@ When a project is due, the project status will be updated as the following.
 
 | Project ID  | Project Title                                                                         | Deadline | devAlq |   JSQdev  |
 | ----------- | ------------------------------------------------------------------------------------- | -------- |  -------  | ------ | 
-| OSProject01 | [Get Operating System Information](https://github.com/SAFCSP-Team/OS-Info) | 10 Dec 2023 |
-| OSProject02 | [Create Text File and Directory](https://github.com/SAFCSP-Team/get-file-info)             | 11 Dec 2023|
-|OSProject03 | [Read a text file](https://github.com/SAFCSP-Team/read-text-file) | 13 Dec 2023|
+| OSProject01 | [Get Operating System Information](https://github.com/SAFCSP-Team/OS-Info) |  |
+| OSProject02 | [Create Text File and Directory](https://github.com/SAFCSP-Team/get-file-info)             | |
+|OSProject03 | [Read a text file](https://github.com/SAFCSP-Team/read-text-file) | |
 
 
 #### Resource Stack
