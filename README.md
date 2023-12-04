@@ -79,7 +79,7 @@ When a project is due, the project status will be updated as the following.
 |DSAProject01 | [Introduction to Data Structures](https://github.com/SAFCSP-Team/introduction-to-data-structures) |	2 Dec 2023 |🔴| 🔴 | 
 |DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/introduction-to-algorithms) |	3 Dec 2023| 🔴| 🔴 | 
 |DSAProject03 | [Creating an Array](https://github.com/SAFCSP-Team/creating-an-array)| 6 Dec 2023 | | |
-|DSAProject04 | [Insert and Delete Operation on Arrays](https://github.com/SAFCSP-Team/array-insert-and-delete-operation) |  7 Dec 2023 | ||
+|DSAProject04 | [Insert and Delete Operations on Arrays](https://github.com/SAFCSP-Team/array-insert-and-delete-operation) |  7 Dec 2023 | ||
 
 #### Resource Stack
 
