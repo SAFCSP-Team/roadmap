@@ -31,7 +31,7 @@ Our objective by the end of this roadmap is to have a clear understanding of the
 
 | Project ID  | Project Title                                                                         | Deadline | devAlq | JSQdev    |
 | ----------- | ------------------------------------------------------------------------------------- | -------- |  -------  | ------ | 
-|HLLProject01 |[Package Concept](https://github.com/nourabyte/Package-Project/tree/main)             |3 Dec 2023     |           |        |
+|HLLProject01 |[Package Concept](https://github.com/nourabyte/Package-Project/tree/main)             |3 Dec 2023     |  ❌   |   ❌   |
 |HLLProject02 |[Exception Handling Concept](https://github.com/nourabyte/Exception-Handling)  |4 Dec 2023         |        |                | 
 |HLLProject03|[Exception Handling Multi Catch](https://github.com/SAFCSP-Team/exception-handling-multi-catch)|
 |HLLProject04|[Try with Resource](https://github.com/SAFCSP-Team/try-with-resource)|
@@ -57,8 +57,8 @@ Our objective by the end of this roadmap is to have a clear understanding of the
 
 | Project ID  | Project Title                                                                         | Deadline | devAlq | JSQdev    |
 | ----------- | ------------------------------------------------------------------------------------- | -------- |  -------  | ------ | 
-DSAProject01 | [Introduction to Data Structures](https://github.com/SAFCSP-Team/introduction-to-data-structures) |	2 Dec 2023 |:x: | :x: | 
-DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/introduction-to-algorithms) |	3 Dec 2023
+DSAProject01 | [Introduction to Data Structures](https://github.com/SAFCSP-Team/introduction-to-data-structures) |	2 Dec 2023 |❌| ❌ | 
+DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/introduction-to-algorithms) |	3 Dec 2023 |❌| ❌ | 
 
 
 #### Resource Stack
