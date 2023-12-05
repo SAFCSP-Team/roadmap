@@ -54,7 +54,7 @@ When a project is due, the project status will be updated as the following.
 | Project ID  | Project Title                                                                         | Deadline | devAlq | JSQdev    |
 | ----------- | ------------------------------------------------------------------------------------- | -------- |  -------  | ------ | 
 |HLLProject01 |[Package Concept](https://github.com/nourabyte/Package-Project/tree/main)             |3 Dec 2023     | 🔴  |   🔴   |
-|HLLProject02 |[Exception Handling Concept](https://github.com/nourabyte/Exception-Handling)  |4 Dec 2023         |        |                | 
+|HLLProject02 |[Exception Handling Concept](https://github.com/nourabyte/Exception-Handling)  |4 Dec 2023         |    🔴   |        🔴        | 
 |HLLProject03|[Exception Handling Multi Catch](https://github.com/SAFCSP-Team/exception-handling-multi-catch)|6 Dec 2023
 |HLLProject04|[Try with Resource](https://github.com/SAFCSP-Team/try-with-resource)| 9 Dec 2023
 |HLLProject05|[Throwing Exception](https://github.com/SAFCSP-Team/throwing-exceptions)| 10 Dec 2023
