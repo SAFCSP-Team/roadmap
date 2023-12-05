@@ -13,10 +13,10 @@ These paths are
 - Final Projects
 
 ## Objective
-Our objective by the end of this roadmap is to have a clear understanding of the four paths plus the final projects and how to build robust applications that use the concepts we covered.
+Our objective by the end of this roadmap is to clearly understand the four paths plus the final projects and how to build robust applications that use the concepts we covered.
 
 ## Projects Structure and Count
-To have a clear understanding of each path, we structured the projects in the following order and count. 
+To clearly understand each path, we structured the projects in the following order and count. 
 | Path | Path Shorthand  | Projects Count | Capstone Project |
 |:------|:-------------:|:------------:|:----------:|
 | High-Level Language| HHL | 12 | 1 |
@@ -37,7 +37,7 @@ To have a clear understanding of each path, we structured the projects in the fo
 > All questions and concerns regarding the projects are using Github issues.
 
 ## Review Status
-When a project is due, the project status will be updated as the following.
+When a project is due, the project status will be updated as follows.
 
 |     Status       |      Meaning      |
 |:------------:|------------|
@@ -101,15 +101,17 @@ The projects are categorized by status as the following.
 | HLL| HLLResource02  |    [Java learn](https://dev.java/learn/)    | documentation |  |1 Jan 2024       
 | DSA| DSAResource01 | [Data Structures using Java](https://www.youtube.com/playlist?list=PLsyeobzWxl7oRKwDi7wjrANsbhTX0IK0J) | playlist |  | 9 Dec 2023 |
 | OS| OSResource01 | [Documentation of Introduction to Operating System](https://batch.libretexts.org/print/url=https://eng.libretexts.org/Courses/Delta_College/Introduction_to_Operating_Systems/02%3A_The_Basics_-_An_Overview/2.01%3A_Introduction_to_Operating_Systems.pdf) | Course | | 31 Jan 2024 |
-| OS| OSResource02 | [Introduction to Operating System](https://github.com/SAFCSP-Team/operating-system-path/issues/2) | Course |  | 31 Jan 2024 |
-| OS|OSResource03| [Introduction to Operating System by Udacity](https://www.udacity.com/course/introduction-to-operating-systems--ud923)| Course|  | 31 Jan 2024
-|NET| NetResource01 | [Network Concepts & Protocols](https://app.pluralsight.com/library/courses/network-concepts-protocols-cert/table-of-contents), Chapter 1 to Chapter 6| Course | | 25 Jan 2024 |
-|NET | NetResource02 |   [Java The Complete Reference 12 edition](https://www.google.com.sa/books/edition/Java_The_Complete_Reference_Twelfth_Edit/iXlIEAAAQBAJ?hl=en&gbpv=0&bsq=Java%20The%20Complete%20Reference%2012th%20edition) , Chapter 24: Networking |   Book     |   |     31 Jan 2024      |
+| OS| OSResource02 | [Introduction to Operating System](https://github.com/SAFCSP-Team/operating-system-path/issues/2) | course |  | 31 Jan 2024 |
+| OS|OSResource03| [Introduction to Operating System by Udacity](https://www.udacity.com/course/introduction-to-operating-systems--ud923)| course|  | 31 Jan 2024
+|NET| NetResource01 | [Network Concepts & Protocols](https://app.pluralsight.com/library/courses/network-concepts-protocols-cert/table-of-contents), Chapter 1 to Chapter 6| course | | 25 Jan 2024 |
+|NET | NetResource02 |   [Java The Complete Reference 12 edition](https://www.google.com.sa/books/edition/Java_The_Complete_Reference_Twelfth_Edit/iXlIEAAAQBAJ?hl=en&gbpv=0&bsq=Java%20The%20Complete%20Reference%2012th%20edition) , Chapter 24: Networking |   book     |   |     31 Jan 2024      |
 
 
 ## Final Projects Timeline
+These final projects are real-life problems that map concepts from all/most of the covered paths 
  Project ID | Project Title |Status | Deadline | devAlq | JSQdev |
 |:-----------:|:-------------|:--------:|:------:|:------:| :------:|
+| | | | | | |
 
 
 
