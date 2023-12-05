@@ -17,7 +17,7 @@ Our objective by the end of this roadmap is to have a clear understanding of the
 
 ## Projects Structure and Count
 To have a clear understanding of each path, we structured the projects in the following order and count. 
-| Path | Path Shorthand  | Projects Count | Exam Project |
+| Path | Path Shorthand  | Projects Count | Capstone Project |
 |:------|:-------------:|:------------:|:----------:|
 | High-Level Language| HHL | 12 | 1 |
 | Data Structure & Algorithms | DSA|  22 | 1 |
