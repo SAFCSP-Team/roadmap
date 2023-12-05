@@ -59,7 +59,7 @@ The projects are categorized by status as the following.
 <hr>
 
 
-## Projects Timeline and  ToC
+## Projects Timeline
 | Path | Project ID | Project Title |Status | Deadline | devAlq | JSQdev |
 |:-----|:-----------:|:-------------|:--------:|:------:|:------:| :------:|
 |DSA |DSAProject01 | [Introduction to Data Structures](https://github.com/SAFCSP-Team/introduction-to-data-structures) | Done|	2 Dec 2023 |🔴| 🔴 | 
@@ -93,7 +93,7 @@ The projects are categorized by status as the following.
 <br/>
 
 
-## Resource Timeline and  ToC
+## Resource Timeline
 
 | Path | Resource ID  | Resource Title | Type   | Discussion Link    | Deadline  |
 | :-----|------------- | -------------- |:------: | ----------- | --------- |
@@ -105,6 +105,11 @@ The projects are categorized by status as the following.
 | OS|OSResource03| [Introduction to Operating System by Udacity](https://www.udacity.com/course/introduction-to-operating-systems--ud923)| Course|  | 31 Jan 2024
 |NET| NetResource01 | [Network Concepts & Protocols](https://app.pluralsight.com/library/courses/network-concepts-protocols-cert/table-of-contents), Chapter 1 to Chapter 6| Course | | 25 Jan 2024 |
 |NET | NetResource02 |   [Java The Complete Reference 12 edition](https://www.google.com.sa/books/edition/Java_The_Complete_Reference_Twelfth_Edit/iXlIEAAAQBAJ?hl=en&gbpv=0&bsq=Java%20The%20Complete%20Reference%2012th%20edition) , Chapter 24: Networking |   Book     |   |     31 Jan 2024      |
+
+
+## Final Projects Timeline
+ Project ID | Project Title |Status | Deadline | devAlq | JSQdev |
+|:-----------:|:-------------|:--------:|:------:|:------:| :------:|
 
 
 
