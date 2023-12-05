@@ -17,13 +17,13 @@ Our objective by the end of this roadmap is to have a clear understanding of the
 
 ## Projects Structure and Count
 To have a clear understanding of each path, we structured the projects in the following order and count. 
-| Path | Projects Count | Exam Project |
-|:------|:------------:|:----------:|
-| High-Level Language| 12 | 1 |
-| Data Structure & Algorithms | 25 | 1 |
-| Operating System| 15 | 1 |
-| Network | 10 | 1 |
-|   Final Projects    |    3  ||
+| Path | Path Shorthand  | Projects Count | Exam Project |
+|:------|:-------------:|:------------:|:----------:|
+| High-Level Language| HHL | 12 | 1 |
+| Data Structure & Algorithms | DSA|  22 | 1 |
+| Operating System| OS | 15 | 1 |
+| Network | Net | 10 | 1 |
+|   Final Projects   | |    3  ||
 
 > At the end of the roadmap, you will be given 3 **final** projects that combine most or all of the covered paths topics to work on.
 
@@ -46,97 +46,65 @@ When a project is due, the project status will be updated as the following.
 | 🟤 | Submitted, but not implemented correctly |
 | ⚫️ | Submission issue |
 
-<hr>
-
-## 1. High-Level Programming Language 
-#### Project Stack
-
-| Project ID  | Project Title                                                                         | Deadline | devAlq | JSQdev    |
-| ----------- | ------------------------------------------------------------------------------------- | -------- |  -------  | ------ | 
-|HLLProject01 |[Package Concept](https://github.com/nourabyte/Package-Project/tree/main)             |3 Dec 2023     | 🔴  |   🔴   |
-|HLLProject02 |[Exception Handling Concept](https://github.com/nourabyte/Exception-Handling)  |4 Dec 2023         |    🔴   |        🔴        | 
-|HLLProject03|[Exception Handling Multi Catch](https://github.com/SAFCSP-Team/exception-handling-multi-catch)|6 Dec 2023
-|HLLProject04|[Try with Resource](https://github.com/SAFCSP-Team/try-with-resource)| 9 Dec 2023
-|HLLProject05|[Throwing Exception](https://github.com/SAFCSP-Team/throwing-exceptions)| 10 Dec 2023
-|HLLProject06|[Generics](https://github.com/SAFCSP-Team/generics)|
-|HLLProject07|[Encapsulation](https://github.com/SAFCSP-Team/encapsulation)|
-|HLLProject08|[Inheritance](https://github.com/SAFCSP-Team/inheritance)|
-|HLLProject09|[Abstraction](https://github.com/SAFCSP-Team/abstraction)|
-
-
-#### Resource Stack
-
-| Resource ID  | Resource Title                                                                                                                                                                                                                                                                                                                     | Type   | Issue ID                                                       | Deadline  |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------- | --------- |
-| HLLResource01 | [Learn Object Oriented Programming in Java](https://www.udemy.com/course/learn-object-oriented-programming-in-java-j/) | course|  | 28 Dec 2023 |
-| HLLResource02  |    [Java learn](https://dev.java/learn/)    | documentation |  |1 Jan 2024       
-
-<hr>
-
-## 2. Data Structures and Algorithms
-
-#### Project Stack
-
-| Project ID  | Project Title                                                                         | Deadline | devAlq | JSQdev    |
-| ----------- | ------------------------------------------------------------------------------------- | -------- |  -------  | ------ | 
-|DSAProject01 | [Introduction to Data Structures](https://github.com/SAFCSP-Team/introduction-to-data-structures) |	2 Dec 2023 |🔴| 🔴 | 
-|DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/introduction-to-algorithms) |	3 Dec 2023| 🔴| 🔴 | 
-|DSAProject03 | [Creating an Array](https://github.com/SAFCSP-Team/creating-an-array)| 6 Dec 2023 | | |
-|DSAProject04 | [Insert and Delete Operations on Arrays](https://github.com/SAFCSP-Team/array-insert-and-delete-operation) |  7 Dec 2023 | ||
-
-#### Resource Stack
-
-| Resource ID  | Resource Title            | Type   | Issue ID  | Deadline  |
-| ------------ | ------------------------- | ------ | ------- | --------- |
-| SDAResource01 | [Data Structures using Java](https://www.youtube.com/playlist?list=PLsyeobzWxl7oRKwDi7wjrANsbhTX0IK0J) | playlist |  | 9 Dec 2023 |
-
-<hr>
-
-## 3. Operating System 
-
-#### Project Stack
-
-| Project ID  | Project Title                                                                         | Deadline | devAlq |   JSQdev  |
-| ----------- | ------------------------------------------------------------------------------------- | -------- |  -------  | ------ | 
-| OSProject01 | [Get Operating System Information](https://github.com/SAFCSP-Team/OS-Info) |  |
-| OSProject02 | [Create Text File and Directory](https://github.com/SAFCSP-Team/get-file-info)             | |
-|OSProject03 | [Read a text file](https://github.com/SAFCSP-Team/read-text-file) | |
-
-
-#### Resource Stack
-
-| Resource ID  | Resource Title  | Type   | Issue ID| Deadline  |
-| ------------ | --------------------------- | ------ | ------------ | --------- |
-| OSResource01 | [Documentation of Introduction to Operating System](https://batch.libretexts.org/print/url=https://eng.libretexts.org/Courses/Delta_College/Introduction_to_Operating_Systems/02%3A_The_Basics_-_An_Overview/2.01%3A_Introduction_to_Operating_Systems.pdf) | Course | | 28 Dec 2023 |
-| OSResource02 | [Introduction to Operating System](https://github.com/SAFCSP-Team/operating-system-path/issues/2) | Course |  | 28 Dec 2023 |
-|OSResource03| [Introduction to Operating System by Udacity](https://www.udacity.com/course/introduction-to-operating-systems--ud923)| Course|  | 28 Dec 2023
+## Projects Status
+The projects are categorized by status as the following. 
+|     Status       |      Meaning      |
+|:------------|------------|
+| Available | The project is available, and you can work on it|
+| Not-Available | The project is not yet available|
+| Done | The project has passed its submission date|
 
 
 <hr>
 
-## 4. Network
 
-#### Project Stack
+## Projects Timeline and  ToC
+| Path | Project ID | Project Title |Status | Deadline | devAlq | JSQdev |
+|:-----|:-----------:|:-------------|:--------:|:------:|:------:| :------:|
+|DSA |DSAProject01 | [Introduction to Data Structures](https://github.com/SAFCSP-Team/introduction-to-data-structures) | Done|	2 Dec 2023 |🔴| 🔴 | 
+|DSA |DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/introduction-to-algorithms) | Done|	3 Dec 2023| 🔴| 🔴 | 
+| HHL | HLLProject01 | [Package Concept](https://github.com/nourabytePackage-Project/tree/main)    | Done | 3 Dec 2023     | 🔴  |   🔴   |
+| HHL |HLLProject02 |[Exception Handling Concept](https://github.com/nourabyte/Exception-Handling)  |Done |4 Dec 2023  |     |   | 
+| HHL|HLLProject03|[Exception Handling Multi Catch](https://github.com/SAFCSP-Team/exception-handling-multi-catch)|<p style="color: green;">Available</p> |6 Dec 2023
+|DSA |DSAProject03 | [Creating an Array](https://github.com/SAFCSP-Team/creating-an-array)| <p style="color: green;">Available</p> | 6 Dec 2023 | | |
+|DSA |DSAProject04 | [Insert and Delete Operations on Arrays](https://github.com/SAFCSP-Team/array-insert-and-delete-operation) | <p style="color: green;">Available</p> |  7 Dec 2023 | ||
+| HHL|HLLProject04|[Try with Resource](https://github.com/SAFCSP-Team/try-with-resource)| <p style="color: green;">Available</p> |9 Dec 2023
+| HHL|HLLProject05|[Throwing Exception](https://github.com/SAFCSP-Team/throwing-exceptions)| <p style="color: green;">Available</p> |10 Dec 2023
+|DSA |DSAProject05 | [Multi-Dimensional Arrays]()| Not-Available | - | | |
+|DSA |DSAProject06 | [Array of Objects]() | Not-Available |  - | ||
+| HHL|HLLProject06|[Generics](https://github.com/SAFCSP-Team/generics)|Not-Available | - | | |
+| HHL|HLLProject07|[Encapsulation](https://github.com/SAFCSP-Team/encapsulation)| Not-Available | - | | |
+|DSA |DSAProject06 | [Linked List]() | Not-Available |  - | ||
+|DSA |DSAProject06 | [Single Linked List, Insert]() | Not-Available |  - | ||
+| HHL|HLLProject08|[Inheritance](https://github.com/SAFCSP-Team/inheritance)| Not-Available | - | | |
+|DSA |DSAProject06 | [Double Linked List, Insert]() | Not-Available |  - | ||
+| HHL|HLLProject09|[Abstraction](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
+| HHL|HLLProject09|[Interface](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
+|DSA |DSAProject06 | [Stack]() | Not-Available |  - | ||
+|DSA |DSAProject06 | [Queue]() | Not-Available |  - | ||
+| HHL|HLLProject09|[Polymorphism](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
+|DSA |DSAProject06 | [Tree 1]() | Not-Available |  - | ||
+| HHL|HLLProject09|[Access Modifiers](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
+|DSA |DSAProject06 | [Tree 2]() | Not-Available |  - | ||
 
-| Project ID  | Project Title                                                                         | Deadline |devAlq| JSQdev    |
-| ----------- | ------------------------------------------------------------------------------------- | -------- |  -------  | ------ | 
-| NetProject01| [IP Address Resolver](https://github.com/SAFCSP-Team/IPAddressResolver) |    | | | |
-| NetProject02| [Multiple IP Addresses Retriever]() |  |  | | |
-| NetProject03| [URL Investigator](https://github.com/SAFCSP-Team/URL-Investigator) | |  | | | 
-| NetProject04| [HTTP Connection]()  | |  | | |
-| NetProject05| [HTTP Request and Response investigator]() | |  | | |
-| NetProject06| [HTTP Request and Response investigator, write into a file]() | |  | | |
-| NetProject07| [Socket Introduction]() | |  | | |
-| NetProject08| [Socket Communication, Byte Stream]() | |  | | |
-| NetProject09| [Socket Communication, Character Stream]() | |  | | |
-| NetProject10| [Sockets, Continuous Connection]() | |  | | |
 
 
-#### Resource Stack
+<br/>
 
-| Resource ID  | Resource Title                                                                                                                                                                                                                                                                                                                     | Type   | Issue ID                                                       | Deadline  |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------- | --------- |
-| NetResource01 | [Network Concepts & Protocols](https://app.pluralsight.com/library/courses/network-concepts-protocols-cert/table-of-contents), Chapter 1 to Chapter 6| Course | | 28 Dec 2023 |
-| NetResource02 |   [Java The Complete Reference 12 edition](https://www.google.com.sa/books/edition/Java_The_Complete_Reference_Twelfth_Edit/iXlIEAAAQBAJ?hl=en&gbpv=0&bsq=Java%20The%20Complete%20Reference%2012th%20edition) , Chapter 24: Networking |   Book     |   |     28 Dec 2023      |
+
+## Resource Timeline and  ToC
+
+| Path | Resource ID  | Resource Title | Type   | Discussion Link    | Deadline  |
+| :-----|------------- | -------------- |:------: | ----------- | --------- |
+| HLL| HLLResource01 | [Learn Object Oriented Programming in Java](https://www.udemy.com/course/learn-object-oriented-programming-in-java-j/) | course|  | 28 Dec 2023 |
+| HLL| HLLResource02  |    [Java learn](https://dev.java/learn/)    | documentation |  |1 Jan 2024       
+| DSA| DSAResource01 | [Data Structures using Java](https://www.youtube.com/playlist?list=PLsyeobzWxl7oRKwDi7wjrANsbhTX0IK0J) | playlist |  | 9 Dec 2023 |
+| OS| OSResource01 | [Documentation of Introduction to Operating System](https://batch.libretexts.org/print/url=https://eng.libretexts.org/Courses/Delta_College/Introduction_to_Operating_Systems/02%3A_The_Basics_-_An_Overview/2.01%3A_Introduction_to_Operating_Systems.pdf) | Course | | 31 Jan 2024 |
+| OS| OSResource02 | [Introduction to Operating System](https://github.com/SAFCSP-Team/operating-system-path/issues/2) | Course |  | 31 Jan 2024 |
+| OS|OSResource03| [Introduction to Operating System by Udacity](https://www.udacity.com/course/introduction-to-operating-systems--ud923)| Course|  | 31 Jan 2024
+|Net| NetResource01 | [Network Concepts & Protocols](https://app.pluralsight.com/library/courses/network-concepts-protocols-cert/table-of-contents), Chapter 1 to Chapter 6| Course | | 25 Jan 2024 |
+|Net | NetResource02 |   [Java The Complete Reference 12 edition](https://www.google.com.sa/books/edition/Java_The_Complete_Reference_Twelfth_Edit/iXlIEAAAQBAJ?hl=en&gbpv=0&bsq=Java%20The%20Complete%20Reference%2012th%20edition) , Chapter 24: Networking |   Book     |   |     31 Jan 2024      |
+
+
 
 
