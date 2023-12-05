@@ -20,7 +20,7 @@ To have a clear understanding of each path, we structured the projects in the fo
 | Path | Path Shorthand  | Projects Count | Capstone Project |
 |:------|:-------------:|:------------:|:----------:|
 | High-Level Language| HHL | 12 | 1 |
-| C++ | CPP | - | - |
+| C++ | CPP | 0 | 0 |
 | Data Structure & Algorithms | DSA|  22 | 1 |
 | Operating System| OS | 15 | 1 |
 | Network | Net | 10 | 1 |
