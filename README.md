@@ -23,7 +23,7 @@ To have a clear understanding of each path, we structured the projects in the fo
 | C++ | CPP | 0 | 0 |
 | Data Structure & Algorithms | DSA|  22 | 1 |
 | Operating System| OS | 15 | 1 |
-| Network | Net | 10 | 1 |
+| Network | NET | 10 | 1 |
 |   Final Projects   | |    3  ||
 
 > At the end of the roadmap, you will be given 3 **final** projects that combine most or all of the covered paths topics to work on.
@@ -45,7 +45,7 @@ When a project is due, the project status will be updated as the following.
 | 🔴 | Not submitted|
 | 🟠 | Late submission |
 | 🟤 | Submitted, but not implemented correctly |
-| ⚫️ | Submission issue |
+| 🟣 | Submission issue |
 
 ## Projects Status
 The projects are categorized by status as the following. 
@@ -103,8 +103,8 @@ The projects are categorized by status as the following.
 | OS| OSResource01 | [Documentation of Introduction to Operating System](https://batch.libretexts.org/print/url=https://eng.libretexts.org/Courses/Delta_College/Introduction_to_Operating_Systems/02%3A_The_Basics_-_An_Overview/2.01%3A_Introduction_to_Operating_Systems.pdf) | Course | | 31 Jan 2024 |
 | OS| OSResource02 | [Introduction to Operating System](https://github.com/SAFCSP-Team/operating-system-path/issues/2) | Course |  | 31 Jan 2024 |
 | OS|OSResource03| [Introduction to Operating System by Udacity](https://www.udacity.com/course/introduction-to-operating-systems--ud923)| Course|  | 31 Jan 2024
-|Net| NetResource01 | [Network Concepts & Protocols](https://app.pluralsight.com/library/courses/network-concepts-protocols-cert/table-of-contents), Chapter 1 to Chapter 6| Course | | 25 Jan 2024 |
-|Net | NetResource02 |   [Java The Complete Reference 12 edition](https://www.google.com.sa/books/edition/Java_The_Complete_Reference_Twelfth_Edit/iXlIEAAAQBAJ?hl=en&gbpv=0&bsq=Java%20The%20Complete%20Reference%2012th%20edition) , Chapter 24: Networking |   Book     |   |     31 Jan 2024      |
+|NET| NetResource01 | [Network Concepts & Protocols](https://app.pluralsight.com/library/courses/network-concepts-protocols-cert/table-of-contents), Chapter 1 to Chapter 6| Course | | 25 Jan 2024 |
+|NET | NetResource02 |   [Java The Complete Reference 12 edition](https://www.google.com.sa/books/edition/Java_The_Complete_Reference_Twelfth_Edit/iXlIEAAAQBAJ?hl=en&gbpv=0&bsq=Java%20The%20Complete%20Reference%2012th%20edition) , Chapter 24: Networking |   Book     |   |     31 Jan 2024      |
 
 
 
