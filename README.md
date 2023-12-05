@@ -24,6 +24,8 @@ To have a clear understanding of each path, we structured the projects in the fo
 | Operating System| 15 | 1 |
 | Network | 10 | 1 |
 
+> Though it is not specified in the above table, at the end of the roadmap, you will be given 3 **final** projects that combine most or all of the paths topics to work on.
+
 ## Submitting Process
 
 * Fork the project repository.
