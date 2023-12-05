@@ -14,7 +14,7 @@ These paths are
 - Final Projects
 
 ## Objective
-Our objective by the end of this roadmap is to clearly understand the four paths plus the final projects and how to build robust applications that use the concepts we covered.
+Our objective by the end of this roadmap is to clearly understand the five paths plus the final projects and how to build robust applications that use the concepts we covered.
 
 ## Projects Structure and Count
 To clearly understand each path, we structured the projects in the following order and count. 
