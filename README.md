@@ -7,7 +7,8 @@ In this roadmap, you will begin your journey to explore four paths that will gre
 
 These paths are
 - High-Level language
-- Data Structures and algorithms 
+- Data Structures and algorithms
+- C++
 - Operating System
 - Network
 - Final Projects
