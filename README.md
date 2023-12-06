@@ -102,7 +102,17 @@ The projects are categorized by status as the following.
 |DSA |DSAProject11 | [Queue]() | Not-Available |  - | ||
 |DSA |DSAProject12| [Tree 1]() | Not-Available |  - | ||
 |DSA |DSAProject13 | [Tree 2]() | Not-Available |  - | ||
-
+|OS |OSProject01 | [Introduction to Operation System](https://github.com/SAFCSP-Team/get-operating-system-information) | Not-Avilable |  - | ||
+|OS |OSProject02 | [Print file information](https://github.com/SAFCSP-Team/get-file-information) | Not-Avilable |  - | ||
+|OS |OSProject03 | [Create Text File and Directory](https://github.com/SAFCSP-Team/create-text-file-and-directory) | Not-Avilable |  - | ||
+|OS |OSProject04 | [Write Text File](https://github.com/SAFCSP-Team/write-text-file) | Not-Avilable |  - | ||
+|OS |OSProject05 | [Read Binary File]() | Not-Avilable |  - | ||
+|OS |OSProject06 | [I/O]() | Not-Avilable |  - | ||
+|OS |OSProject07 | [Process]() | Not-Avilable |  - | ||
+|OS |OSProject08 | [Thread]() | Not-Avilable |  - | ||
+|OS |OSProject09 | [Multi-Threads]() | Not-Avilable |  - | ||
+|OS |OSProject10 | [Sync and Async]() | Not-Avilable |  - | ||
+|OS |OSProject11 | [Memory Allocation and Deaalocation]() | Not-Avilable |  - | ||
 
 
 <br/>
