@@ -76,12 +76,12 @@ The projects are categorized by status as the following.
 | HHL|HLLProject10|[Interface](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
 | HHL|HLLProject11|[Polymorphism](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
 | HHL|HLLProject12|[Access Modifiers](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
-|DSA |DSAProject01 | [Introduction to Data Structures](https://github.com/SAFCSP-Team/introduction-to-data-structures) | Done|	2 Dec 2023 |🔴| 🔴 | 
-|DSA |DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/introduction-to-algorithms) | Done|	3 Dec 2023| 🔴| 🔴 |
-|DSA |DSAProject03 | [Creating an Array](https://github.com/SAFCSP-Team/creating-an-array)| <p style="color: green;">Available</p> | 6 Dec 2023 | | |
-|DSA |DSAProject04 | [Insert and Delete Operations on Arrays](https://github.com/SAFCSP-Team/array-insert-and-delete-operation) | <p style="color: green;">Available</p> |  7 Dec 2023 | ||
-|DSA |DSAProject05 | [Multi-Dimensional Arrays](https://github.com/SAFCSP-Team/multi-dimensional-arrays)|<p style="color: green;">Available</p>  | 9 Dec 2023 | | |
-|DSA |DSAProject06 | [Array of Objects](https://github.com/SAFCSP-Team/array-of-objects) | <p style="color: green;">Available</p>  |  9 Dec 2023 | ||
+|DSA |DSAProject01 | [Introduction to Data Structures](https://github.com/SAFCSP-Team/introduction-to-data-structures) | Not-Available |  - | ||Done|	2 Dec 2023 |🔴| 🔴 | 
+|DSA |DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/introduction-to-algorithms) | Not-Available |  - | ||
+|DSA |DSAProject03 | [Creating an Array](https://github.com/SAFCSP-Team/creating-an-array)| Not-Available |  - | ||
+|DSA |DSAProject04 | [Insert and Delete Operations on Arrays](https://github.com/SAFCSP-Team/array-insert-and-delete-operation) |Not-Available |  - | ||
+|DSA |DSAProject05 | [Multi-Dimensional Arrays](https://github.com/SAFCSP-Team/multi-dimensional-arrays)|Not-Available |  - | ||
+|DSA |DSAProject06 | [Array of Objects](https://github.com/SAFCSP-Team/array-of-objects) | Not-Available |  - | ||
 |DSA |DSAProject07 | [Linked List]() | Not-Available |  - | ||
 |DSA |DSAProject08 | [Single Linked List, Insert]() | Not-Available |  - | ||
 |DSA |DSAProject09 | [Double Linked List, Insert]() | Not-Available |  - | ||
