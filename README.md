@@ -72,9 +72,9 @@ The projects are categorized by status as the following.
 |DSA |DSAProject03 | [Creating an Array](https://github.com/SAFCSP-Team/creating-an-array)| <p style="color: green;">Available</p> | 6 Dec 2023 | | |
 |DSA |DSAProject04 | [Insert and Delete Operations on Arrays](https://github.com/SAFCSP-Team/array-insert-and-delete-operation) | <p style="color: green;">Available</p> |  7 Dec 2023 | ||
 | HHL|HLLProject04|[Try with Resource](https://github.com/SAFCSP-Team/try-with-resource)| <p style="color: green;">Available</p> |9 Dec 2023
+|DSA |DSAProject05 | [Multi-Dimensional Arrays](https://github.com/SAFCSP-Team/multi-dimensional-arrays)|<p style="color: green;">Available</p>  | 9 Dec 2023 | | |
+|DSA |DSAProject06 | [Array of Objects](https://github.com/SAFCSP-Team/array-of-objects) | <p style="color: green;">Available</p>  |  9 Dec 2023 | ||
 | HHL|HLLProject05|[Throwing Exception](https://github.com/SAFCSP-Team/throwing-exceptions)| <p style="color: green;">Available</p> |10 Dec 2023
-|DSA |DSAProject05 | [Multi-Dimensional Arrays]()| Not-Available | - | | |
-|DSA |DSAProject06 | [Array of Objects]() | Not-Available |  - | ||
 | HHL|HLLProject06|[Generics](https://github.com/SAFCSP-Team/generics)|Not-Available | - | | |
 | HHL|HLLProject07|[Encapsulation](https://github.com/SAFCSP-Team/encapsulation)| Not-Available | - | | |
 |DSA |DSAProject06 | [Linked List]() | Not-Available |  - | ||
