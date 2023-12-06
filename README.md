@@ -35,8 +35,8 @@ To clearly understand each path, we structured the projects in the following ord
 For each bootcamp, you will have an introduction file linked to the `Bootcamp` field to guide you through the bootcamp journey, and the `Bootcamp Link` field that will have the complete materials and projects related to it.
 | Bootcamp | Bootcamp  Shorthand | Bootcamp Link |Projects Count |
 |:---------|:------------------:|:--------------:|:--------------:|
-| [C++](https://github.com/SAFCSP-Team/cpp-introduction-guid) | CPP | C++ Bootcamp | 0 |
-> Before visiting C++ Bootcamp, kindly have a look at the [introduction to C++ Bootcamp](https://github.com/SAFCSPTeam/cpp-introduction-guid) file.
+| [C++](https://github.com/SAFCSP-Team/cpp-introduction-guide) | CPP | [C++ Bootcamp](https://github.com/SAFCSP-Team/cpp-bootcamp) | 0 |
+> Before visiting C++ Bootcamp, kindly have a look at the [introduction to C++ Bootcamp](https://github.com/SAFCSPTeam/cpp-introduction-guide) file.
 
 ## Submitting Process
 
