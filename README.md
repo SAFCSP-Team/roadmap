@@ -107,9 +107,8 @@ The projects are categorized by status as the following.
 | HLL| HLLResource01 | [Learn Object Oriented Programming in Java](https://www.udemy.com/course/learn-object-oriented-programming-in-java-j/) | course|  | 28 Dec 2023 |
 | HLL| HLLResource02  |    [Java learn](https://dev.java/learn/)    | documentation |  |1 Jan 2024       
 | DSA| DSAResource01 | [Data Structures using Java](https://www.youtube.com/playlist?list=PLsyeobzWxl7oRKwDi7wjrANsbhTX0IK0J) | playlist |  | 9 Dec 2023 |
-| OS| OSResource01 | [Documentation of Introduction to Operating System](https://batch.libretexts.org/print/url=https://eng.libretexts.org/Courses/Delta_College/Introduction_to_Operating_Systems/02%3A_The_Basics_-_An_Overview/2.01%3A_Introduction_to_Operating_Systems.pdf) | Course | | 31 Jan 2024 |
-| OS| OSResource02 | [Introduction to Operating System](https://github.com/SAFCSP-Team/operating-system-path/issues/2) | course |  | 31 Jan 2024 |
-| OS|OSResource03| [Introduction to Operating System by Udacity](https://www.udacity.com/course/introduction-to-operating-systems--ud923)| course|  | 31 Jan 2024
+| OS| OSResource01 | [Introduction to Operating System](https://github.com/SAFCSP-Team/operating-system-path/issues/2) | course |  | 31 Jan 2024 |
+| OS|OSResource02| [Introduction to Operating System by Udacity](https://www.udacity.com/course/introduction-to-operating-systems--ud923)| course|  | 31 Jan 2024
 |NET| NetResource01 | [Network Concepts & Protocols](https://app.pluralsight.com/library/courses/network-concepts-protocols-cert/table-of-contents), Chapter 1 to Chapter 6| course | | 25 Jan 2024 |
 |NET | NetResource02 |   [Java The Complete Reference 12 edition](https://www.google.com.sa/books/edition/Java_The_Complete_Reference_Twelfth_Edit/iXlIEAAAQBAJ?hl=en&gbpv=0&bsq=Java%20The%20Complete%20Reference%2012th%20edition) , Chapter 24: Networking |   book     |   |     31 Jan 2024      |
 
