@@ -18,14 +18,15 @@ Our objective by the end of this roadmap is to clearly understand the five paths
 
 ## Projects Structure and Count
 To clearly understand each path, we structured the projects in the following order and count. 
-| Path | Path Shorthand  | Projects Count | Capstone Project |
-|:------|:-------------:|:------------:|:----------:|
-| High-Level Language| HHL | 12 | 1 |
-| C++ | CPP | 0 | 0 |
-| Data Structure & Algorithms | DSA|  22 | 1 |
-| Operating System| OS | 15 | 1 |
-| Network | NET | 10 | 1 |
-|   Final Projects   | |    3  ||
+| Path | Path Shorthand  | Projects Count | Capstone Project | Total|
+|:------|:-------------:|:------------:|:----------:|:----------:|
+| [High-Level Language](https://github.com/SAFCSP-Team/high-level-language-path/)| HHL | 12 | 1 | 13|
+| [C++](https://github.com/SAFCSP-Team/cpp-path) | CPP | 0 | 0 | 0|
+| [Data Structure & Algorithms](https://github.com/SAFCSP-Team/data-structures-and-algorithms-path) | DSA|  22 | 1 | 23|
+| [Operating System](https://github.com/SAFCSP-Team/operating-system-path)| OS | 15 | 1 | 16|
+| [Network](https://github.com/SAFCSP-Team/network-path/) | NET | 10 | 1 | 11|
+|   Final Projects   | FP |    3  ||3|
+|   Total   | |  62    |4| 66|
 
 > At the end of the roadmap, you will be given 3 **final** projects that combine most or all of the covered paths topics to work on.
 
