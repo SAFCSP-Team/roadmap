@@ -65,7 +65,7 @@ The projects are categorized by status as the following.
 |:-----|:-----------:|:-------------|:--------:|:------:|:------:| :------:|
 |DSA |DSAProject01 | [Introduction to Data Structures](https://github.com/SAFCSP-Team/introduction-to-data-structures) | Done|	2 Dec 2023 |🔴| 🔴 | 
 |DSA |DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/introduction-to-algorithms) | Done|	3 Dec 2023| 🔴| 🔴 | 
-| HHL | HLLProject01 | [Package Concept](https://github.com/nourabytePackage-Project/tree/main)    | Done | 3 Dec 2023     | 🔴  |   🔴   |
+| HHL |HLLProject01 | [Package Concept](https://github.com/nourabytePackage-Project/tree/main)    | Done | 3 Dec 2023     | 🔴  |   🟠   |
 | HHL |HLLProject02 |[Exception Handling Concept](https://github.com/nourabyte/Exception-Handling)  |Done |4 Dec 2023  | 🔴  | 🔴  | 
 | HHL|HLLProject03|[Exception Handling Multi Catch](https://github.com/SAFCSP-Team/exception-handling-multi-catch)|<p style="color: green;">Available</p> |6 Dec 2023
 |DSA |DSAProject03 | [Creating an Array](https://github.com/SAFCSP-Team/creating-an-array)| <p style="color: green;">Available</p> | 6 Dec 2023 | | |
