@@ -36,7 +36,7 @@ For each bootcamp, you will have an introduction file linked to the `Bootcamp` f
 | Bootcamp | Bootcamp  Shorthand | Bootcamp Link |Projects Count |
 |:---------|:------------------:|:--------------:|:--------------:|
 | [C++](https://github.com/SAFCSP-Team/cpp-introduction-guide) | CPP | [C++ Bootcamp](https://github.com/SAFCSP-Team/cpp-bootcamp) | 0 |
-> Before visiting C++ Bootcamp, kindly have a look at the [introduction to C++ Bootcamp](https://github.com/SAFCSPTeam/cpp-introduction-guide) file.
+> Before visiting C++ Bootcamp, kindly have a look at the [introduction to C++ Bootcamp](https://github.com/SAFCSP-Team/cpp-introduction-guide) file.
 
 ## Submitting Process
 
