@@ -36,7 +36,7 @@ Bootcamps are different from the paths; they give you complete materials (conten
 | Bootcamp | Bootcamp  Shorthand | Bootcamp Link |Projects Count |
 |:---------|:------------------:|:--------------:|:--------------:|
 | [C++](https://github.com/SAFCSP-Team/cpp-introduction-guid) | CPP | C++ Bootcamp | 0 |
-> Before visiting C++ Bootcamp, kindly have a look at the [introduction to C++ Bootcamp]([https://github.com/SAFCSP-Team/cpp-path](https://github.com/SAFCSP-Team/cpp-introduction-guid) file.
+> Before visiting C++ Bootcamp, kindly have a look at the [introduction to C++ Bootcamp]([https://github.com/SAFCSP-Team/cpp-path](https://github.com/SAFCSPTeam/cpp-introduction-guid) file.
 
 ## Submitting Process
 
