@@ -62,6 +62,7 @@ The projects are categorized by status as the following.
 
 
 ## Projects Timeline
+### High-Level Language
 | Path | Project ID | Project Title |Status | Deadline | devAlq | JSQdev |
 |:-----|:-----------:|:-------------|:--------:|:------:|:------:| :------:| 
 | HHL|HLLProject01 | [Package Concept](https://github.com/nourabytePackage-Project/tree/main)    | Done | 3 Dec 2023     | 🔴  |   🟠   |
@@ -76,6 +77,10 @@ The projects are categorized by status as the following.
 | HHL|HLLProject10|[Interface](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
 | HHL|HLLProject11|[Polymorphism](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
 | HHL|HLLProject12|[Access Modifiers](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
+
+### Data Structures and Algorithms
+| Path | Project ID | Project Title |Status | Deadline | devAlq | JSQdev |
+|:-----|:-----------:|:-------------|:--------:|:------:|:------:| :------:| 
 |DSA |DSAProject01 | [Introduction to Data Structures](https://github.com/SAFCSP-Team/introduction-to-data-structures) | Not-Available |  - | ||Done|	2 Dec 2023 |🔴| 🔴 | 
 |DSA |DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/introduction-to-algorithms) | Not-Available |  - | ||
 |DSA |DSAProject03 | [Creating an Array](https://github.com/SAFCSP-Team/creating-an-array)| Not-Available |  - | ||
