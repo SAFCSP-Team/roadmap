@@ -123,9 +123,13 @@ The projects are categorized by status as the following.
 
 ## Final Projects Timeline
 These final projects are real-life problems that map concepts from all/most of the covered paths 
- Project ID | Project Title |Status | Deadline | devAlq | JSQdev |
-|:-----------:|:-------------|:--------:|:------:|:------:| :------:|
-| | | | | | |
+| Project ID | Project Title |Status | Deadline | devAlq | JSQdev |
+|:-----------:|:-------------:|:--------:|:------:|:------:| :------:|
+| FP01 |  - | Not-Available | - | | |
+| FP02 |  - | Not-Available | - | | |
+| FP03 |  - | Not-Available | - | | |
+
+> Final projects and their specifications will be determined later on the journey.
 
 
 
