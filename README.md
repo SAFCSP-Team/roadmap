@@ -3,32 +3,40 @@
 > #### This Repository will be updated frequently.
 ## Introduction 
 
-In this roadmap, you will begin your journey to explore five paths that will greatly contribute to improving your programming skills. By a set of resources and projects to give you a new learning experience! 
+In this roadmap, you will begin your journey to explore four paths and a bootcamp that will greatly contribute to improving your programming skills. By a set of resources and projects to give you a new learning experience! 
 
-These paths are
-- High-Level language
-- C++
-- Data Structures and algorithms
-- Operating System
-- Network
-- Final Projects
+These paths and bootcamp are
+- High-Level language path
+- C++ bootcamp
+- Data Structures and algorithms path
+- Operating System path
+- Network path
+- Final Projects path
 
 ## Objective
 Our objective by the end of this roadmap is to clearly understand the five paths plus the final projects and how to build robust applications that use the concepts we covered.
 
-## Projects Structure and Count
-To clearly understand each path, we structured the projects in the following order and count. 
-| Path | Path Shorthand  | Projects Count | Capstone Project | Total|
-|:------|:-------------:|:------------:|:----------:|:----------:|
-| [High-Level Language](https://github.com/SAFCSP-Team/high-level-language-path/)| HHL | 12 | 1 | 13|
-| [C++](https://github.com/SAFCSP-Team/cpp-path) | CPP | 0 | 0 | 0|
-| [Data Structure & Algorithms](https://github.com/SAFCSP-Team/data-structures-and-algorithms-path) | DSA|  22 | 1 | 23|
-| [Operating System](https://github.com/SAFCSP-Team/operating-system-path)| OS | 15 | 1 | 16|
-| [Network](https://github.com/SAFCSP-Team/network-path/) | NET | 10 | 1 | 11|
-|   Final Projects   | FP |    3  ||3|
-|   Total   | |  62    |4| 66|
+## Paths
+To clearly understand each path, we structured the projects in the following order. 
+
+| Path | Path Shorthand  | Projects Count |
+|:-----|:--------------:|:--------------:|
+| [High-Level Language](https://github.com/SAFCSP-Team/high-level-language-path/)| HHL | 12|
+| [Data Structure & Algorithms](https://github.com/SAFCSP-Team/data-structures-and-algorithms-path) | DSA|  22 |
+| [Operating System](https://github.com/SAFCSP-Team/operating-system-path)| OS | 15 |
+| [Network](https://github.com/SAFCSP-Team/network-path/) | NET | 10 |
+|   Final Projects   | FP |    3 |
+|   Total   | - |  62   | 
 
 > At the end of the roadmap, you will be given 3 **final** projects that combine most or all of the covered paths topics to work on.
+
+
+## Bootcamps
+Bootcamps are different from the paths; they give you complete materials (content and projects) packed together to form the bootcamp journey. 
+| Bootcamp | Bootcamp  Shorthand | Bootcamp Link |Projects Count |
+|:---------|:------------------:|:--------------:|:--------------:|
+| [C++](https://github.com/SAFCSP-Team/cpp-introduction-guid) | CPP | C++ Bootcamp | 0 |
+> Before visiting C++ Bootcamp, kindly have a look at the [introduction to C++ Bootcamp]([https://github.com/SAFCSP-Team/cpp-path](https://github.com/SAFCSP-Team/cpp-introduction-guid) file.
 
 ## Submitting Process
 
