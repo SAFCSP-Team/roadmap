@@ -76,7 +76,6 @@ The projects are categorized by status as the following.
 | HHL|HLLProject10|[Interface](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
 | HHL|HLLProject11|[Polymorphism](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
 | HHL|HLLProject12|[Access Modifiers](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
-
 |DSA |DSAProject01 | [Introduction to Data Structures](https://github.com/SAFCSP-Team/introduction-to-data-structures) | Done|	2 Dec 2023 |🔴| 🔴 | 
 |DSA |DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/introduction-to-algorithms) | Done|	3 Dec 2023| 🔴| 🔴 |
 |DSA |DSAProject03 | [Creating an Array](https://github.com/SAFCSP-Team/creating-an-array)| <p style="color: green;">Available</p> | 6 Dec 2023 | | |
