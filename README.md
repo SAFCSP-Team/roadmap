@@ -63,32 +63,33 @@ The projects are categorized by status as the following.
 
 ## Projects Timeline
 | Path | Project ID | Project Title |Status | Deadline | devAlq | JSQdev |
-|:-----|:-----------:|:-------------|:--------:|:------:|:------:| :------:|
-|DSA |DSAProject01 | [Introduction to Data Structures](https://github.com/SAFCSP-Team/introduction-to-data-structures) | Done|	2 Dec 2023 |🔴| 🔴 | 
-|DSA |DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/introduction-to-algorithms) | Done|	3 Dec 2023| 🔴| 🔴 | 
-| HHL |HLLProject01 | [Package Concept](https://github.com/nourabytePackage-Project/tree/main)    | Done | 3 Dec 2023     | 🔴  |   🟠   |
-| HHL |HLLProject02 |[Exception Handling Concept](https://github.com/nourabyte/Exception-Handling)  |Done |4 Dec 2023  | 🔴  | 🔴  | 
+|:-----|:-----------:|:-------------|:--------:|:------:|:------:| :------:| 
+| HHL|HLLProject01 | [Package Concept](https://github.com/nourabytePackage-Project/tree/main)    | Done | 3 Dec 2023     | 🔴  |   🟠   |
+| HHL|HLLProject02 |[Exception Handling Concept](https://github.com/nourabyte/Exception-Handling)  |Done |4 Dec 2023  | 🔴  | 🔴  | 
 | HHL|HLLProject03|[Exception Handling Multi Catch](https://github.com/SAFCSP-Team/exception-handling-multi-catch)|<p style="color: green;">Available</p> |6 Dec 2023
-|DSA |DSAProject03 | [Creating an Array](https://github.com/SAFCSP-Team/creating-an-array)| <p style="color: green;">Available</p> | 6 Dec 2023 | | |
-|DSA |DSAProject04 | [Insert and Delete Operations on Arrays](https://github.com/SAFCSP-Team/array-insert-and-delete-operation) | <p style="color: green;">Available</p> |  7 Dec 2023 | ||
 | HHL|HLLProject04|[Try with Resource](https://github.com/SAFCSP-Team/try-with-resource)| <p style="color: green;">Available</p> |9 Dec 2023
-|DSA |DSAProject05 | [Multi-Dimensional Arrays](https://github.com/SAFCSP-Team/multi-dimensional-arrays)|<p style="color: green;">Available</p>  | 9 Dec 2023 | | |
-|DSA |DSAProject06 | [Array of Objects](https://github.com/SAFCSP-Team/array-of-objects) | <p style="color: green;">Available</p>  |  9 Dec 2023 | ||
 | HHL|HLLProject05|[Throwing Exception](https://github.com/SAFCSP-Team/throwing-exceptions)| <p style="color: green;">Available</p> |10 Dec 2023
 | HHL|HLLProject06|[Generics](https://github.com/SAFCSP-Team/generics)|Not-Available | - | | |
 | HHL|HLLProject07|[Encapsulation](https://github.com/SAFCSP-Team/encapsulation)| Not-Available | - | | |
-|DSA |DSAProject06 | [Linked List]() | Not-Available |  - | ||
-|DSA |DSAProject06 | [Single Linked List, Insert]() | Not-Available |  - | ||
 | HHL|HLLProject08|[Inheritance](https://github.com/SAFCSP-Team/inheritance)| Not-Available | - | | |
-|DSA |DSAProject06 | [Double Linked List, Insert]() | Not-Available |  - | ||
 | HHL|HLLProject09|[Abstraction](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
-| HHL|HLLProject09|[Interface](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
-|DSA |DSAProject06 | [Stack]() | Not-Available |  - | ||
-|DSA |DSAProject06 | [Queue]() | Not-Available |  - | ||
-| HHL|HLLProject09|[Polymorphism](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
-|DSA |DSAProject06 | [Tree 1]() | Not-Available |  - | ||
-| HHL|HLLProject09|[Access Modifiers](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
-|DSA |DSAProject06 | [Tree 2]() | Not-Available |  - | ||
+| HHL|HLLProject10|[Interface](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
+| HHL|HLLProject11|[Polymorphism](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
+| HHL|HLLProject12|[Access Modifiers](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
+
+|DSA |DSAProject01 | [Introduction to Data Structures](https://github.com/SAFCSP-Team/introduction-to-data-structures) | Done|	2 Dec 2023 |🔴| 🔴 | 
+|DSA |DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/introduction-to-algorithms) | Done|	3 Dec 2023| 🔴| 🔴 |
+|DSA |DSAProject03 | [Creating an Array](https://github.com/SAFCSP-Team/creating-an-array)| <p style="color: green;">Available</p> | 6 Dec 2023 | | |
+|DSA |DSAProject04 | [Insert and Delete Operations on Arrays](https://github.com/SAFCSP-Team/array-insert-and-delete-operation) | <p style="color: green;">Available</p> |  7 Dec 2023 | ||
+|DSA |DSAProject05 | [Multi-Dimensional Arrays](https://github.com/SAFCSP-Team/multi-dimensional-arrays)|<p style="color: green;">Available</p>  | 9 Dec 2023 | | |
+|DSA |DSAProject06 | [Array of Objects](https://github.com/SAFCSP-Team/array-of-objects) | <p style="color: green;">Available</p>  |  9 Dec 2023 | ||
+|DSA |DSAProject07 | [Linked List]() | Not-Available |  - | ||
+|DSA |DSAProject08 | [Single Linked List, Insert]() | Not-Available |  - | ||
+|DSA |DSAProject09 | [Double Linked List, Insert]() | Not-Available |  - | ||
+|DSA |DSAProject10 | [Stack]() | Not-Available |  - | ||
+|DSA |DSAProject11 | [Queue]() | Not-Available |  - | ||
+|DSA |DSAProject12| [Tree 1]() | Not-Available |  - | ||
+|DSA |DSAProject13 | [Tree 2]() | Not-Available |  - | ||
 
 
 
