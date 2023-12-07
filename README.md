@@ -102,6 +102,10 @@ The projects are categorized by status as the following.
 |DSA |DSAProject11 | [Queue]() | Not-Available |  - | ||
 |DSA |DSAProject12| [Tree 1]() | Not-Available |  - | ||
 |DSA |DSAProject13 | [Tree 2]() | Not-Available |  - | ||
+
+### Operating System
+| Path | Project ID | Project Title |Status | Deadline | devAlq | JSQdev |
+|:-----|:-----------:|:-------------|:--------:|:------:|:------:| :------:| 
 |OS |OSProject01 | [Introduction to Operation System](https://github.com/SAFCSP-Team/get-operating-system-information) | Not-Avilable |  - | ||
 |OS |OSProject02 | [Print file information](https://github.com/SAFCSP-Team/get-file-information) | Not-Avilable |  - | ||
 |OS |OSProject03 | [Create Text File and Directory](https://github.com/SAFCSP-Team/create-text-file-and-directory) | Not-Avilable |  - | ||
@@ -114,6 +118,9 @@ The projects are categorized by status as the following.
 |OS |OSProject10 | [Sync and Async]() | Not-Avilable |  - | ||
 |OS |OSProject11 | [Memory Allocation and Deaalocation]() | Not-Avilable |  - | ||
 
+### Network
+| Path | Project ID | Project Title |Status | Deadline | devAlq | JSQdev |
+|:-----|:-----------:|:-------------|:--------:|:------:|:------:| :------:| 
 
 <br/>
 
@@ -124,7 +131,9 @@ The projects are categorized by status as the following.
 | :-----|------------- | -------------- |:------: | ----------- | --------- |
 | HLL| HLLResource01 | [Learn Object Oriented Programming in Java](https://www.udemy.com/course/learn-object-oriented-programming-in-java-j/) | course|  | 28 Dec 2023 |
 | HLL| HLLResource02  |    [Java learn](https://dev.java/learn/)    | documentation |  |1 Jan 2024       
-| DSA| DSAResource01 | [Data Structures using Java](https://www.youtube.com/playlist?list=PLsyeobzWxl7oRKwDi7wjrANsbhTX0IK0J) | playlist |  | 9 Dec 2023 |
+| DSA| DSAResource01 | [Data Structures using Java](https://www.youtube.com/playlist?list=PLsyeobzWxl7oRKwDi7wjrANsbhTX0IK0J) | playlist |  | 23 Dec 2023 |
+| DSA| DSAResource02 | [Data Structures in Java](https://log2base2.com/courses/data-structures-java/?lb_content=log2base2.com/dashboard/trial-videos&lb_cta=courses-nav_bar) | course |  | 3 Jan 2024 |
+| DSA| DSAResource03 | [Algorithms in Java](https://log2base2.com/courses/algorithms-java/?lb_content=log2base2.com/courses/data-structures-java/&lb_cta=courses-nav_bar) | course |  |  13 Jan 2024 |
 | OS| OSResource01 | [Introduction to Operating System](https://github.com/SAFCSP-Team/operating-system-path/issues/2) | course |  | 31 Jan 2024 |
 | OS|OSResource02| [Introduction to Operating System by Udacity](https://www.udacity.com/course/introduction-to-operating-systems--ud923)| course|  | 31 Jan 2024
 |NET| NetResource01 | [Network Concepts & Protocols](https://app.pluralsight.com/library/courses/network-concepts-protocols-cert/table-of-contents), Chapter 1 to Chapter 6| course | | 25 Jan 2024 |
