@@ -77,7 +77,7 @@ The projects are categorized by status as the following.
 |:-----|:-----------:|:-------------|:--------:|:------:|:------:| :------:| 
 | HHL|HLLProject01 | [Package Concept](https://github.com/SAFCSP-Team/package)    | Done | 3 Dec 2023     | 🔴  |   🟠   |
 | HHL|HLLProject02 |[Exception Handling Concept](https://github.com/SAFCSP-Team/exception-handling)  |Done |4 Dec 2023  | 🔴  | 🔴  | 
-| HHL|HLLProject03|[Exception Handling Multi Catch](https://github.com/SAFCSP-Team/exception-handling-multi-catch)|<p style="color: green;">Available</p> |6 Dec 2023
+| HHL|HLLProject03|[Exception Handling Multi Catch](https://github.com/SAFCSP-Team/exception-handling-multi-catch)|Done |6 Dec 2023|🔴|🔴
 | HHL|HLLProject04|[Try with Resource](https://github.com/SAFCSP-Team/try-with-resource)| <p style="color: green;">Available</p> |9 Dec 2023
 | HHL|HLLProject05|[Throwing Exception](https://github.com/SAFCSP-Team/throwing-exceptions)| <p style="color: green;">Available</p> |10 Dec 2023
 | HHL|HLLProject07|[Abstraction](https://github.com/SAFCSP-Team/abstraction)|<p style="color: green;">Available</p>  | 11 Dec 2023 | | |
