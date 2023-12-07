@@ -78,13 +78,14 @@ The projects are categorized by status as the following.
 | HHL|HLLProject03|[Exception Handling Multi Catch](https://github.com/SAFCSP-Team/exception-handling-multi-catch)|<p style="color: green;">Available</p> |6 Dec 2023
 | HHL|HLLProject04|[Try with Resource](https://github.com/SAFCSP-Team/try-with-resource)| <p style="color: green;">Available</p> |9 Dec 2023
 | HHL|HLLProject05|[Throwing Exception](https://github.com/SAFCSP-Team/throwing-exceptions)| <p style="color: green;">Available</p> |10 Dec 2023
-| HHL|HLLProject06|[Generics](https://github.com/SAFCSP-Team/generics)| <p style="color: green;">Available</p> | 10 Dec 2023 | | |
 | HHL|HLLProject07|[Encapsulation](https://github.com/SAFCSP-Team/encapsulation)|  <p style="color: green;">Available</p>  | 10 Dec 2023 | | |
-| HHL|HLLProject08|[Inheritance](https://github.com/SAFCSP-Team/inheritance)| Not-Available | - | | |
 | HHL|HLLProject09|[Abstraction](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
+| HHL|HLLProject08|[Inheritance](https://github.com/SAFCSP-Team/inheritance)| Not-Available | - | | |
 | HHL|HLLProject10|[Interface](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
 | HHL|HLLProject11|[Polymorphism](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
-| HHL|HLLProject12|[Access Modifiers](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
+| HHL|HLLProject10|[Interface](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
+| HHL|HLLProject06|[Generics](https://github.com/SAFCSP-Team/generics)| <p style="color: green;">Available</p> | 10 Dec 2023 | | |
+
 
 ### Data Structures and Algorithms
 | Path | Project ID | Project Title |Status | Deadline | devAlq | JSQdev |
