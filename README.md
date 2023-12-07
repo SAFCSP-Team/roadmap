@@ -79,13 +79,12 @@ The projects are categorized by status as the following.
 | HHL|HLLProject04|[Try with Resource](https://github.com/SAFCSP-Team/try-with-resource)| <p style="color: green;">Available</p> |9 Dec 2023
 | HHL|HLLProject05|[Throwing Exception](https://github.com/SAFCSP-Team/throwing-exceptions)| <p style="color: green;">Available</p> |10 Dec 2023
 | HHL|HLLProject06|[Encapsulation](https://github.com/SAFCSP-Team/encapsulation)|  <p style="color: green;">Available</p>  | 10 Dec 2023 | | |
-| HHL|HLLProject07|[Abstraction](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
-| HHL|HLLProject08|[Inheritance](https://github.com/SAFCSP-Team/inheritance)| Not-Available | - | | |
-| HHL|HLLProject09|[Interface](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
-| HHL|HLLProject10|[Polymorphism](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
-| HHL|HLLProject11|[Interface](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
-| HHL|HLLProject12|[Generics](https://github.com/SAFCSP-Team/generics)| <p style="color: green;">Available</p> | 10 Dec 2023 | | |
-> Note: Please be informed that it is required to complete all 12 projects of the High-Level Language path by 17th December.
+| HHL|HLLProject07|[Abstraction](-)| Not-Available | - | | |
+| HHL|HLLProject08|[Inheritance](-)| Not-Available | - | | |
+| HHL|HLLProject09|[Interface](-)| Not-Available | - | | |
+| HHL|HLLProject10|[Polymorphism](-)| Not-Available | - | | |
+| HHL|HLLProject11|[Generics](https://github.com/SAFCSP-Team/generics)| <p style="color: green;">Available</p> | 10 Dec 2023 | | |
+> Note: Please be informed that it is required to complete all 12 projects of the High-Level Language path by 16th December.
 
 ### Data Structures and Algorithms
 | Path | Project ID | Project Title |Status | Deadline | devAlq | JSQdev |
