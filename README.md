@@ -85,7 +85,7 @@ The projects are categorized by status as the following.
 | HHL|HLLProject10|[Polymorphism](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
 | HHL|HLLProject11|[Interface](https://github.com/SAFCSP-Team/abstraction)| Not-Available | - | | |
 | HHL|HLLProject12|[Generics](https://github.com/SAFCSP-Team/generics)| <p style="color: green;">Available</p> | 10 Dec 2023 | | |
-
+> Note: Please be informed that it is required to complete all 12 projects of the High-Level Language path by 17th December.
 
 ### Data Structures and Algorithms
 | Path | Project ID | Project Title |Status | Deadline | devAlq | JSQdev |
