@@ -11,7 +11,7 @@ These paths and bootcamp are
 - Data Structures and algorithms path
 - Operating System path
 - Network path
-- Final Projects path
+- Final Projects
 
 ## Objective
 Our objective by the end of this roadmap is to clearly understand the four paths plus the final projects and how to build robust applications that use the concepts we covered.
