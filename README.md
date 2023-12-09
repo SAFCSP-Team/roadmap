@@ -90,19 +90,19 @@ The projects are categorized by status as the following.
 ### Data Structures and Algorithms
 | Path | Project ID | Project Title |Status | Deadline | devAlq | JSQdev |
 |:-----|:-----------:|:-------------|:--------:|:------:|:------:| :------:| 
-|DSA |DSAProject01 | [Introduction to Data Structures](https://github.com/SAFCSP-Team/introduction-to-data-structures) | Not-Available |  - | ||Done|	2 Dec 2023 |🔴| 🔴 | 
-|DSA |DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/introduction-to-algorithms) | Not-Available |  - | ||
-|DSA |DSAProject03 | [Creating an Array](https://github.com/SAFCSP-Team/creating-an-array)| Not-Available |  - | ||
-|DSA |DSAProject04 | [Insert and Delete Operations on Arrays](https://github.com/SAFCSP-Team/array-insert-and-delete-operation) |Not-Available |  - | ||
-|DSA |DSAProject05 | [Multi-Dimensional Arrays](https://github.com/SAFCSP-Team/multi-dimensional-arrays)|Not-Available |  - | ||
-|DSA |DSAProject06 | [Array of Objects](https://github.com/SAFCSP-Team/array-of-objects) | Not-Available |  - | ||
-|DSA |DSAProject07 | [Linked List]() | Not-Available |  - | ||
-|DSA |DSAProject08 | [Single Linked List, Insert]() | Not-Available |  - | ||
-|DSA |DSAProject09 | [Double Linked List, Insert]() | Not-Available |  - | ||
-|DSA |DSAProject10 | [Stack]() | Not-Available |  - | ||
-|DSA |DSAProject11 | [Queue]() | Not-Available |  - | ||
-|DSA |DSAProject12| [Tree 1]() | Not-Available |  - | ||
-|DSA |DSAProject13 | [Tree 2]() | Not-Available |  - | ||
+|DSA|DSAProject01| [Introduction to Data Structures](-) | Not-Available |  - | |||	 ||  | 
+|DSA|DSAProject02| [Introduction to Algorithms](-) | Not-Available |  - | ||
+|DSA|DSAProject03| [Creating an Array](-)| Not-Available |  - | ||
+|DSA|DSAProject04| [Insert and Delete Operations on Arrays](-) |Not-Available |  - | ||
+|DSA|DSAProject05| [Multi-Dimensional Arrays](-)| Not-Available |  - | ||
+|DSA|DSAProject06| [Array of Objects](-) | Not-Available |  - | ||
+|DSA|DSAProject07| [Linked List](-) | Not-Available|  - | ||
+|DSA|DSAProject08| [Single Linked List, Insert](-) | Not-Available |  - | ||
+|DSA|DSAProject09| [Double Linked List, Insert](-) | Not-Available |  - | ||
+|DSA|DSAProject10| [Stack](-) | Not-Available |  - | ||
+|DSA|DSAProject11| [Queue](-) | Not-Available |  - | ||
+|DSA|DSAProject12| [Tree 1](-) | Not-Available |  - | ||
+|DSA|DSAProject13| [Tree 2](-) | Not-Available |  - | ||
 
 ### Operating System
 | Path | Project ID | Project Title |Status | Deadline | devAlq | JSQdev |
