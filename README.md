@@ -107,22 +107,31 @@ The projects are categorized by status as the following.
 ### Operating System
 | Path | Project ID | Project Title |Status | Deadline | devAlq | JSQdev |
 |:-----|:-----------:|:-------------|:--------:|:------:|:------:| :------:| 
-|OS |OSProject01 | [Introduction to Operation System](https://github.com/SAFCSP-Team/get-operating-system-information) | Not-Avilable |  - | ||
-|OS |OSProject02 | [Print file information](https://github.com/SAFCSP-Team/get-file-information) | Not-Avilable |  - | ||
-|OS |OSProject03 | [Create Text File and Directory](https://github.com/SAFCSP-Team/create-text-file-and-directory) | Not-Avilable |  - | ||
-|OS |OSProject04 | [Write Text File](https://github.com/SAFCSP-Team/write-text-file) | Not-Avilable |  - | ||
-|OS |OSProject05 | [Read Binary File]() | Not-Avilable |  - | ||
-|OS |OSProject06 | [I/O]() | Not-Avilable |  - | ||
-|OS |OSProject07 | [Process]() | Not-Avilable |  - | ||
-|OS |OSProject08 | [Thread]() | Not-Avilable |  - | ||
-|OS |OSProject09 | [Multi-Threads]() | Not-Avilable |  - | ||
-|OS |OSProject10 | [Sync and Async]() | Not-Avilable |  - | ||
-|OS |OSProject11 | [Memory Allocation and Deaalocation]() | Not-Avilable |  - | ||
+|OS |OSProject01 | [Introduction to Operation System](https://github.com/SAFCSP-Team/get-operating-system-information) | Not-Available |  - | ||
+|OS |OSProject02 | [Print file information](https://github.com/SAFCSP-Team/get-file-information) | Not-Available |  - | ||
+|OS |OSProject03 | [Create Text File and Directory](https://github.com/SAFCSP-Team/create-text-file-and-directory) | Not-Available |  - | ||
+|OS |OSProject04 | [Write Text File](https://github.com/SAFCSP-Team/write-text-file) | Not-Available |  - | ||
+|OS |OSProject05 | [Read Binary File]() | Not-Available |  - | ||
+|OS |OSProject06 | [I/O]() | Not-Available |  - | ||
+|OS |OSProject07 | [Process]() | Not-Available |  - | ||
+|OS |OSProject08 | [Thread]() | Not-Available |  - | ||
+|OS |OSProject09 | [Multi-Threads]() | Not-Available |  - | ||
+|OS |OSProject10 | [Sync and Async]() | Not-Available |  - | ||
+|OS |OSProject11 | [Memory Allocation and Deaalocation]() | Not-Available |  - | ||
 
 ### Network
 | Path | Project ID | Project Title |Status | Deadline | devAlq | JSQdev |
 |:-----|:-----------:|:-------------|:--------:|:------:|:------:| :------:| 
-
+|NET | NetProject01| [IP Address Resolver]() | Not-Available  |- | | |
+|NET | NetProject02| [Multiple IP Addresses Retriever]() | Not-Available | - | | |
+|NET | NetProject03| [URL Investigator]() | Not-Available| - | | | 
+|NET | NetProject04| [HTTP Connection]()  | Not-Available| - | | |
+|NET | NetProject05| [HTTP Request and Response investigator]() | Not-Available| - | | |
+|NET | NetProject06| [HTTP Request and Response investigator, write into a file]() | Not-Available| - | | |
+|NET | NetProject07| [Socket Introduction]() | Not-Available | - | | |
+|NET | NetProject08| [Socket Communication, Byte Stream]() | Available |  -| | |
+|NET | NetProject09| [Socket Communication, Character Stream]() | Not-Available| - | | |
+|NET | NetProject10| [Sockets, Continuous Connection]() | Not-Available| - | | |
 <br/>
 
 
