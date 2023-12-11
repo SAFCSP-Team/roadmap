@@ -129,7 +129,7 @@ The projects are categorized by status as the following.
 |NET | NetProject05| [HTTP Request and Response investigator]() | Not-Available| - | | |
 |NET | NetProject06| [HTTP Request and Response investigator, write into a file]() | Not-Available| - | | |
 |NET | NetProject07| [Socket Introduction]() | Not-Available | - | | |
-|NET | NetProject08| [Socket Communication, Byte Stream]() | Available |  -| | |
+|NET | NetProject08| [Socket Communication, Byte Stream]() | Not-Available |  -| | |
 |NET | NetProject09| [Socket Communication, Character Stream]() | Not-Available| - | | |
 |NET | NetProject10| [Sockets, Continuous Connection]() | Not-Available| - | | |
 <br/>
