@@ -81,11 +81,11 @@ The projects are categorized by status as the following.
 | HHL|HLLProject04|[Try with Resource](https://github.com/SAFCSP-Team/try-with-resource)|Done |9 Dec 2023|🔴|🔴
 | HHL|HLLProject05|[Throwing Exception](https://github.com/SAFCSP-Team/throwing-exceptions)| Done|10 Dec 2023|🔴|🔴
 | HHL|HLLProject06|[Encapsulation](https://github.com/SAFCSP-Team/encapsulation)|  <p style="color: green;">Available</p>  | 11 Dec 2023 | | |
-| HHL|HLLProject07|[Inheritance](https://github.com/SAFCSP-Team/inheritance)|<p style="color: green;">Available</p>  | 13 Dec 2023| | |
-| HHL|HLLProject08|[Abstraction](https://github.com/SAFCSP-Team/abstraction)|<p style="color: green;">Available</p>  | 14 Dec 2023 | | |
-| HHL|HLLProject09|[Interface](https://github.com/SAFCSP-Team/interface)|<p style="color: green;">Available</p>  | 14 Dec 2023 | | |
-| HHL|HLLProject10|[Polymorphism](https://github.com/SAFCSP-Team/polymorphism)| <p style="color: green;">Available</p>  | 16 Dec 2023 | | |
-| HHL|HLLProject11|[Generics](https://github.com/SAFCSP-Team/generics)| <p style="color: green;">Available</p>  | 16 Dec 2023 | | |
+| HHL|HLLProject07|[Inheritance](https://github.com/SAFCSP-Team/inheritance)|<p style="color: green;">Available</p>  | 17 Dec 2023| | |
+| HHL|HLLProject08|[Abstraction](https://github.com/SAFCSP-Team/abstraction)|<p style="color: green;">Available</p>  | 17 Dec 2023 | | |
+| HHL|HLLProject09|[Interface](https://github.com/SAFCSP-Team/interface)|<p style="color: green;">Available</p>  | 17 Dec 2023 | | |
+| HHL|HLLProject10|[Polymorphism](https://github.com/SAFCSP-Team/polymorphism)| <p style="color: green;">Available</p>  | 17 Dec 2023 | | |
+| HHL|HLLProject11|[Generics](https://github.com/SAFCSP-Team/generics)| <p style="color: green;">Available</p>  | 17 Dec 2023 | | |
 
 ### Data Structures and Algorithms
 | Path | Project ID | Project Title |Status | Deadline | devAlq | JSQdev |
