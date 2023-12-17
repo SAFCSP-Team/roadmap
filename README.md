@@ -22,9 +22,9 @@ To clearly understand each path, we structured the projects in the following ord
 | Path | Path Shorthand  | Projects Count |
 |:-----|:--------------:|:--------------:|
 | [High-Level Language](https://github.com/SAFCSP-Team/high-level-language-path/)| HHL | 12|
-| [Data Structure & Algorithms](https://github.com/SAFCSP-Team/data-structures-and-algorithms-path) | DSA|  22 |
-| [Operating System](https://github.com/SAFCSP-Team/operating-system-path)| OS | 15 |
-| [Network](https://github.com/SAFCSP-Team/network-path/) | NET | 10 |
+| [Data Structure & Algorithms](https://github.com/SAFCSP-Team/data-structures-and-algorithms-bootcamp) | DSA|  22 |
+| Operating System| OS | 15 |
+| Network | NET | 10 |
 |   Final Projects   | FP |    3 |
 |   Total   | - |  62   | 
 
