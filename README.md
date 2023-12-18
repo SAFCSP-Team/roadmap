@@ -1,42 +1,43 @@
 # Roadmap
 
-> #### This Repository will be updated frequently.
+>  This Repository will be updated frequently.
 ## Introduction 
 
-In this roadmap, you will begin your journey to explore four paths and a bootcamp that will greatly contribute to improving your programming skills. By a set of resources and projects to give you a new learning experience! 
+In this roadmap, you will begin your journey to explore  paths and bootcamps that will greatly contribute to improving your programming skills. By a set of resources and projects to give you a new learning experience! 
 
-These paths and bootcamp are
+These paths and bootcamps are
 - High-Level language path
 - C++ bootcamp
-- Data Structures and algorithms path
+- Data Structures and algorithms bootcamp
 - Operating System path
 - Network path
 - Final Projects
 
 ## Objective
-Our objective by the end of this roadmap is to clearly understand the four paths plus the final projects and how to build robust applications that use the concepts we covered.
+Our objective by the end of this roadmap is to clearly understand the concepts covered, plus the final projects and how to build robust applications with what you learned.
 
 ## Paths
 To clearly understand each path, we structured the projects in the following order. 
 
-| Path | Path Shorthand  | Projects Count |
+| Path | Shorthand  | Status |
 |:-----|:--------------:|:--------------:|
-| [High-Level Language](https://github.com/SAFCSP-Team/high-level-language-path/)| HHL | 12|
-| [Data Structure & Algorithms](https://github.com/SAFCSP-Team/data-structures-and-algorithms-bootcamp) | DSA|  22 |
-| Operating System| OS | 15 |
-| Network | NET | 10 |
-|   Final Projects   | FP |    3 |
-|   Total   | - |  62   | 
+| [High-Level Language](https://github.com/SAFCSP-Team/high-level-language-path/)| HHL | <p style="color:green;">Available</p> |
+| Operating System| OS | Soon |
+| Network | NET | Soon |
+|   Final Projects   | FP |    Soon |
 
 > At the end of the roadmap, you will be given 3 **final** projects that combine most or all of the covered paths topics to work on.
 
 
 ## Bootcamps
 For each bootcamp, you will have an introduction file linked to the `Bootcamp` field to guide you through the bootcamp journey, and the `Bootcamp Link` field that will have the complete materials and projects related to it.
-| Bootcamp | Bootcamp  Shorthand | Bootcamp Link |Projects Count |
-|:---------|:------------------:|:--------------:|:--------------:|
-| [C++](https://github.com/SAFCSP-Team/cpp-introduction-guide) | CPP | [C++ Bootcamp](https://github.com/SAFCSP-Team/cpp-bootcamp) | 0 |
-> Before visiting C++ Bootcamp, kindly have a look at the [introduction to C++ Bootcamp](https://github.com/SAFCSP-Team/cpp-introduction-guide) file.
+| Bootcamp |  Shorthand |  Link | Status |
+|:---------|:------------------:|:--------------:|:-----:|
+| [C++](https://github.com/SAFCSP-Team/cpp-introduction-guide) | CPP | [C++ Bootcamp](https://github.com/SAFCSP-Team/cpp-bootcamp) | Soon |
+| [Data Structure & Algorithms](https://github.com/SAFCSP-Team/data-structures-and-algorithms-bootcamp) | DSA| [DSA Bootcamp](https://github.com/SAFCSP-Team/data-structures-and-algorithms-bootcamp) | <p style="color:green;">Available</p>|
+
+
+<!-- > Before visiting C++ Bootcamp, kindly have a look at the [introduction to C++ Bootcamp](https://github.com/SAFCSP-Team/cpp-introduction-guide) file. -->
 
 ## Submitting Process
 
@@ -71,7 +72,8 @@ The projects are categorized by status as the following.
 
 ## Projects Timeline
 ### High-Level Language
-> Note: Please be informed that it's required to complete all 11 projects of the High-Level Language path by 16th December.
+> Note: Please be informed that it's required to complete all 11 projects of the High-Level Language path by 17th December.
+
 
 | Path | Project ID | Project Title |Status | Deadline | devAlq | JSQdev |
 |:-----|:-----------:|:-------------|:--------:|:------:|:------:| :------:| 
@@ -88,50 +90,11 @@ The projects are categorized by status as the following.
 | HHL|HLLProject11|[Generics](https://github.com/SAFCSP-Team/generics)| <p style="color: green;">Available</p>  | 17 Dec 2023 | | |
 
 ### Data Structures and Algorithms
-| Path | Project ID | Project Title |Status | Deadline | devAlq | JSQdev |
-|:-----|:-----------:|:-------------|:--------:|:------:|:------:| :------:| 
-|DSA|DSAProject01| [Introduction to Data Structures](-) | Not-Available |  - | |||	 ||  | 
-|DSA|DSAProject02| [Introduction to Algorithms](-) | Not-Available |  - | ||
-|DSA|DSAProject03| [Creating an Array](-)| Not-Available |  - | ||
-|DSA|DSAProject04| [Insert and Delete Operations on Arrays](-) |Not-Available |  - | ||
-|DSA|DSAProject05| [Multi-Dimensional Arrays](-)| Not-Available |  - | ||
-|DSA|DSAProject06| [Array of Objects](-) | Not-Available |  - | ||
-|DSA|DSAProject07| [Linked List](-) | Not-Available|  - | ||
-|DSA|DSAProject08| [Single Linked List, Insert](-) | Not-Available |  - | ||
-|DSA|DSAProject09| [Double Linked List, Insert](-) | Not-Available |  - | ||
-|DSA|DSAProject10| [Stack](-) | Not-Available |  - | ||
-|DSA|DSAProject11| [Queue](-) | Not-Available |  - | ||
-|DSA|DSAProject12| [Tree 1](-) | Not-Available |  - | ||
-|DSA|DSAProject13| [Tree 2](-) | Not-Available |  - | ||
 
-### Operating System
-| Path | Project ID | Project Title |Status | Deadline | devAlq | JSQdev |
-|:-----|:-----------:|:-------------|:--------:|:------:|:------:| :------:| 
-|OS |OSProject01 | [Introduction to Operation System](https://github.com/SAFCSP-Team/get-operating-system-information) | Not-Available |  - | ||
-|OS |OSProject02 | [Print file information](https://github.com/SAFCSP-Team/get-file-information) | Not-Available |  - | ||
-|OS |OSProject03 | [Create Text File and Directory](https://github.com/SAFCSP-Team/create-text-file-and-directory) | Not-Available |  - | ||
-|OS |OSProject04 | [Write Text File](https://github.com/SAFCSP-Team/write-text-file) | Not-Available |  - | ||
-|OS |OSProject05 | [Read Binary File]() | Not-Available |  - | ||
-|OS |OSProject06 | [I/O]() | Not-Available |  - | ||
-|OS |OSProject07 | [Process]() | Not-Available |  - | ||
-|OS |OSProject08 | [Thread]() | Not-Available |  - | ||
-|OS |OSProject09 | [Multi-Threads]() | Not-Available |  - | ||
-|OS |OSProject10 | [Sync and Async]() | Not-Available |  - | ||
-|OS |OSProject11 | [Memory Allocation and Deaalocation]() | Not-Available |  - | ||
+The complete content and projects for Data Structures & Algorithms are in the [bootcamp link](https://github.com/SAFCSP-Team/data-structures-and-algorithms-bootcamp).
 
-### Network
-| Path | Project ID | Project Title |Status | Deadline | devAlq | JSQdev |
-|:-----|:-----------:|:-------------|:--------:|:------:|:------:| :------:| 
-|NET | NetProject01| [IP Address Resolver]() | Not-Available  |- | | |
-|NET | NetProject02| [Multiple IP Addresses Retriever]() | Not-Available | - | | |
-|NET | NetProject03| [URL Investigator]() | Not-Available| - | | | 
-|NET | NetProject04| [HTTP Connection]()  | Not-Available| - | | |
-|NET | NetProject05| [HTTP Request and Response investigator]() | Not-Available| - | | |
-|NET | NetProject06| [HTTP Request and Response investigator, write into a file]() | Not-Available| - | | |
-|NET | NetProject07| [Socket Introduction]() | Not-Available | - | | |
-|NET | NetProject08| [Socket Communication, Byte Stream]() | Not-Available |  -| | |
-|NET | NetProject09| [Socket Communication, Character Stream]() | Not-Available| - | | |
-|NET | NetProject10| [Sockets, Continuous Connection]() | Not-Available| - | | |
+
+
 <br/>
 
 
