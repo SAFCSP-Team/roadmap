@@ -71,23 +71,6 @@ The projects are categorized by status as the following.
 
 
 ## Projects Timeline
-### High-Level Language
-> Note: Please be informed that it's required to complete all 11 projects of the High-Level Language path by 17th December.
-
-
-| Path | Project ID | Project Title |Status | Deadline | devAlq | JSQdev |
-|:-----|:-----------:|:-------------|:--------:|:------:|:------:| :------:| 
-| HHL|HLLProject01 | [Package Concept](https://github.com/SAFCSP-Team/package)    | Done | 3 Dec 2023     | 🟠  |   🟠   |
-| HHL|HLLProject02 |[Exception Handling Concept](https://github.com/SAFCSP-Team/exception-handling)  |Done |4 Dec 2023  | 🟠  | 🟠  | 
-| HHL|HLLProject03|[Exception Handling Multi Catch](https://github.com/SAFCSP-Team/exception-handling-multi-catch)|Done |6 Dec 2023|🟠|🟤 
-| HHL|HLLProject04|[Try with Resource](https://github.com/SAFCSP-Team/try-with-resource)|Done |9 Dec 2023|🔴|🟠
-| HHL|HLLProject05|[Throwing Exception](https://github.com/SAFCSP-Team/throwing-exceptions)| Done|10 Dec 2023|🟠|🟠 
-| HHL|HLLProject06|[Encapsulation](https://github.com/SAFCSP-Team/encapsulation)|Done | 11 Dec 2023 |🟠|🟢 |
-| HHL|HLLProject07|[Inheritance](https://github.com/SAFCSP-Team/inheritance)|Done| 17 Dec 2023|🟢 |🟢|
-| HHL|HLLProject08|[Abstraction](https://github.com/SAFCSP-Team/abstraction)|Done| 17 Dec 2023 |🟤|🟢|
-| HHL|HLLProject09|[Interface](https://github.com/SAFCSP-Team/interface)|Done| 17 Dec 2023 | |🟢|
-| HHL|HLLProject10|[Polymorphism](https://github.com/SAFCSP-Team/polymorphism)|Done| 17 Dec 2023 | |🟢 |
-| HHL|HLLProject11|[Generics](https://github.com/SAFCSP-Team/generics)|Done| 17 Dec 2023 |🟢|🟢|
 
 ### Data Structures and Algorithms
 
