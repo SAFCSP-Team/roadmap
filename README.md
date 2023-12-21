@@ -21,7 +21,7 @@ To clearly understand each path, we structured the projects in the following ord
 
 | Path | Shorthand  | Status |
 |:-----|:--------------:|:--------------:|
-| [High-Level Language](https://github.com/SAFCSP-Team/high-level-language-path/)| HHL | <p style="color:green;">Available</p> |
+| [High-Level Language](https://github.com/SAFCSP-Team/high-level-language-path/)| HHL | Done |
 | Operating System| OS | Soon |
 | Network | NET | Soon |
 |   Final Projects   | FP |    Soon |
@@ -34,7 +34,7 @@ For each bootcamp, you will have an introduction file linked to the `Bootcamp` f
 | Bootcamp |  Shorthand |  Link | Status |
 |:---------|:------------------:|:--------------:|:-----:|
 | [C++](https://github.com/SAFCSP-Team/cpp-introduction-guide) | CPP | [C++ Bootcamp](https://github.com/SAFCSP-Team/cpp-bootcamp) | Soon |
-| [Data Structure & Algorithms](https://github.com/SAFCSP-Team/data-structures-and-algorithms-bootcamp) | DSA| [DSA Bootcamp](https://github.com/SAFCSP-Team/data-structures-and-algorithms-bootcamp) | <p style="color:green;">Available</p>|
+| [Data Structure & Algorithms](https://github.com/SAFCSP-Team/data-structures-and-algorithms-bootcamp) | DSA| [DSA Bootcamp](https://github.com/SAFCSP-Team/data-structures-and-algorithms-bootcamp) |**Available**|
 
 
 <!-- > Before visiting C++ Bootcamp, kindly have a look at the [introduction to C++ Bootcamp](https://github.com/SAFCSP-Team/cpp-introduction-guide) file. -->
@@ -83,17 +83,12 @@ The complete content and projects for Data Structures & Algorithms are in the [b
 
 ## Resource Timeline
 
-| Path | Resource ID  | Resource Title | Type   | Discussion Link    | Deadline  |
-| :-----|------------- | -------------- |:------: | ----------- | --------- |
-| HLL| HLLResource01 | [Learn Object Oriented Programming in Java](https://www.udemy.com/course/learn-object-oriented-programming-in-java-j/) | course|  | 28 Dec 2023 |
-| HLL| HLLResource02  |    [Java learn](https://dev.java/learn/)    | documentation |  |1 Jan 2024       
-| DSA| DSAResource01 | [Data Structures using Java](https://www.youtube.com/playlist?list=PLsyeobzWxl7oRKwDi7wjrANsbhTX0IK0J) | playlist |  | 23 Dec 2023 |
-| DSA| DSAResource02 | [Data Structures in Java](https://log2base2.com/courses/data-structures-java/?lb_content=log2base2.com/dashboard/trial-videos&lb_cta=courses-nav_bar) | course |  | 3 Jan 2024 |
-| DSA| DSAResource03 | [Algorithms in Java](https://log2base2.com/courses/algorithms-java/?lb_content=log2base2.com/courses/data-structures-java/&lb_cta=courses-nav_bar) | course |  |  13 Jan 2024 |
-| OS| OSResource01 | [Introduction to Operating System](https://github.com/SAFCSP-Team/operating-system-path/issues/2) | course |  | 31 Jan 2024 |
-| OS|OSResource02| [Introduction to Operating System by Udacity](https://www.udacity.com/course/introduction-to-operating-systems--ud923)| course|  | 31 Jan 2024
-|NET| NetResource01 | [Network Concepts & Protocols](https://app.pluralsight.com/library/courses/network-concepts-protocols-cert/table-of-contents), Chapter 1 to Chapter 6| course | | 25 Jan 2024 |
-|NET | NetResource02 |   [Java The Complete Reference 12 edition](https://www.google.com.sa/books/edition/Java_The_Complete_Reference_Twelfth_Edit/iXlIEAAAQBAJ?hl=en&gbpv=0&bsq=Java%20The%20Complete%20Reference%2012th%20edition) , Chapter 24: Networking |   book     |   |     31 Jan 2024      |
+| Path | Resource ID  | Resource Title | Type   |
+| :-----|------------- | -------------- |:------: |   
+| DSA| DSAResource01 | [Data Structures using Java](https://www.youtube.com/playlist?list=PLsyeobzWxl7oRKwDi7wjrANsbhTX0IK0J) | playlist | 
+| DSA| DSAResource02 | [Data Structures in Java](https://log2base2.com/courses/data-structures-java/?lb_content=log2base2.com/dashboard/trial-videos&lb_cta=courses-nav_bar) | course | 
+| DSA| DSAResource03 | [Algorithms in Java](https://log2base2.com/courses/algorithms-java/?lb_content=log2base2.com/courses/data-structures-java/&lb_cta=courses-nav_bar) | course |
+
 
 
 ## Final Projects Timeline
